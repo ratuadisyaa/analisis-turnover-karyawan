@@ -1,0 +1,8 @@
+faktor,kelompok_a,kelompok_b,turnover_a_persen,turnover_b_persen,risiko_relatif,ci95_bawah,ci95_atas
+Lembur,Lembur,Tidak lembur,30.5,10.4,2.93,2.33,3.68
+Masa kerja,< 2 tahun,>= 2 tahun,34.9,12.9,2.7,2.14,3.41
+Level jabatan,Level 1,Level 2-5,26.3,10.1,2.6,2.05,3.29
+Gaji,Kuartil terendah,Kuartil lain,29.3,11.7,2.5,1.99,3.13
+Opsi saham,Tanpa opsi saham,Punya opsi saham,24.4,9.9,2.47,1.93,3.16
+Status pernikahan,Lajang,Menikah/cerai,25.5,11.7,2.18,1.73,2.75
+Dinas luar,Sering,Jarang/tidak pernah,24.9,14.1,1.77,1.38,2.27

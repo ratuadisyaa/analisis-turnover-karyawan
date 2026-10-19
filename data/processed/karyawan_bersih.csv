@@ -1,0 +1,1471 @@
+id_karyawan,usia,resign,departemen,jabatan,level_jabatan,lembur,status_pernikahan,dinas_luar,gaji_bulanan_usd,masa_kerja_tahun,tahun_sejak_promosi,kepuasan_kerja,work_life_balance,level_opsi_saham,jarak_rumah_km,keluar,kelompok_masa_kerja,kuartil_gaji
+1,41,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,5993,6,0,4,1,0,1,1,6-10 tahun,Q3
+2,49,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Sering,5130,10,1,2,3,1,8,0,6-10 tahun,Q3
+4,37,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,2090,0,0,3,3,0,2,1,<1 tahun,Q1 (terendah)
+5,33,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Sering,2909,8,3,3,3,0,3,0,6-10 tahun,Q1 (terendah)
+7,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3468,2,2,2,3,1,2,0,2 tahun,Q2
+8,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,3068,7,3,4,2,0,2,0,6-10 tahun,Q2
+10,59,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2670,1,0,1,2,3,3,0,1 tahun,Q1 (terendah)
+11,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2693,1,0,3,3,1,24,0,1 tahun,Q1 (terendah)
+12,38,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Sering,9526,9,1,3,3,0,23,0,6-10 tahun,Q4 (tertinggi)
+13,36,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5237,7,7,3,2,2,27,0,6-10 tahun,Q3
+14,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2426,5,0,2,3,1,16,0,3-5 tahun,Q1 (terendah)
+15,29,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Lajang,Jarang,4193,9,0,3,3,0,15,0,6-10 tahun,Q2
+16,31,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2911,5,4,3,2,1,26,0,3-5 tahun,Q1 (terendah)
+18,34,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2661,2,1,4,3,1,19,0,2 tahun,Q1 (terendah)
+19,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,2028,4,0,3,3,0,24,1,3-5 tahun,Q1 (terendah)
+20,29,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Jarang,9980,10,8,1,3,1,21,0,6-10 tahun,Q4 (tertinggi)
+21,32,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Jarang,3298,6,0,2,2,2,5,0,6-10 tahun,Q2
+22,22,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Tidak pernah,2935,1,0,4,2,2,16,0,1 tahun,Q2
+23,53,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,15427,25,3,4,3,0,2,0,>10 tahun,Q4 (tertinggi)
+24,38,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,3944,3,1,4,3,0,2,0,3-5 tahun,Q2
+26,24,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Tidak pernah,4011,4,1,3,2,1,11,0,3-5 tahun,Q2
+27,36,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,3407,5,0,1,3,0,9,1,3-5 tahun,Q2
+28,34,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Lajang,Jarang,11994,12,2,2,3,0,7,0,>10 tahun,Q4 (tertinggi)
+30,21,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,1232,0,0,4,3,0,15,0,<1 tahun,Q1 (terendah)
+31,34,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2960,4,1,1,3,0,6,1,3-5 tahun,Q2
+32,53,Tidak,Riset & Pengembangan,Manager,5,Tidak,Cerai,Jarang,19094,14,4,3,2,1,5,0,>10 tahun,Q4 (tertinggi)
+33,32,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,3919,10,6,1,3,0,16,1,6-10 tahun,Q2
+35,42,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6825,9,4,2,3,1,8,0,6-10 tahun,Q3
+36,44,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,10248,22,5,4,3,1,7,0,>10 tahun,Q4 (tertinggi)
+38,46,Tidak,Penjualan,Manager,5,Tidak,Lajang,Jarang,18947,2,2,1,2,0,2,0,2 tahun,Q4 (tertinggi)
+39,33,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2496,1,0,4,3,0,2,0,1 tahun,Q1 (terendah)
+40,44,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,6465,4,1,4,4,0,10,0,3-5 tahun,Q3
+41,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2206,10,1,3,3,0,9,0,6-10 tahun,Q1 (terendah)
+42,39,Ya,Penjualan,Sales Representative,2,Tidak,Menikah,Jarang,2086,1,0,4,4,1,5,1,1 tahun,Q1 (terendah)
+45,24,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2293,2,2,4,2,1,1,1,2 tahun,Q1 (terendah)
+46,43,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2645,5,1,3,2,2,2,0,3-5 tahun,Q1 (terendah)
+47,50,Ya,Penjualan,Sales Representative,1,Ya,Menikah,Jarang,2683,3,0,3,3,0,3,1,3-5 tahun,Q1 (terendah)
+49,35,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2014,2,2,4,3,0,2,0,2 tahun,Q1 (terendah)
+51,36,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3419,1,0,1,4,1,5,0,1 tahun,Q2
+52,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,5376,5,1,1,3,2,1,0,3-5 tahun,Q3
+53,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,1951,1,0,4,3,1,4,0,1 tahun,Q1 (terendah)
+54,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2341,1,0,1,3,1,2,0,1 tahun,Q1 (terendah)
+55,26,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2293,1,0,3,2,0,25,1,1 tahun,Q1 (terendah)
+56,27,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Sering,8726,9,1,3,3,0,8,0,6-10 tahun,Q4 (tertinggi)
+57,30,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Sering,4011,12,3,4,3,0,1,0,>10 tahun,Q2
+58,41,Ya,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,19545,22,15,3,3,0,12,1,>10 tahun,Q4 (tertinggi)
+60,34,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,4568,9,8,3,3,0,23,0,6-10 tahun,Q2
+61,37,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3022,1,0,2,3,0,19,0,1 tahun,Q2
+62,46,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Sering,5772,9,0,4,3,0,5,0,6-10 tahun,Q3
+63,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2269,1,0,4,3,0,8,0,1 tahun,Q1 (terendah)
+64,48,Ya,Riset & Pengembangan,Laboratory Technician,3,Ya,Lajang,Jarang,5381,1,0,3,3,0,1,1,1 tahun,Q3
+65,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,3441,2,2,3,2,0,5,1,2 tahun,Q2
+68,44,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5454,4,1,1,2,1,1,0,3-5 tahun,Q3
+70,35,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Menikah,Tidak pernah,9884,4,2,1,3,1,11,0,3-5 tahun,Q4 (tertinggi)
+72,26,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4157,2,0,4,2,1,23,0,2 tahun,Q2
+73,33,Tidak,Riset & Pengembangan,Research Director,3,Ya,Lajang,Sering,13458,15,8,4,3,0,1,0,>10 tahun,Q4 (tertinggi)
+74,35,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,9069,9,1,1,2,1,18,0,6-10 tahun,Q4 (tertinggi)
+75,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,4014,2,2,1,3,1,23,0,2 tahun,Q2
+76,31,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,5915,7,1,4,2,1,7,0,6-10 tahun,Q3
+77,37,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,5993,7,0,3,4,1,1,0,6-10 tahun,Q3
+78,32,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,6162,9,7,4,3,1,1,0,6-10 tahun,Q3
+79,38,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Sering,2406,10,9,4,3,0,29,0,6-10 tahun,Q1 (terendah)
+80,50,Tidak,Riset & Pengembangan,Research Director,5,Ya,Cerai,Jarang,18740,27,13,3,2,1,7,0,>10 tahun,Q4 (tertinggi)
+81,59,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,7637,21,7,1,2,0,25,0,>10 tahun,Q3
+83,36,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,10096,17,12,3,3,3,8,0,>10 tahun,Q4 (tertinggi)
+84,55,Tidak,Riset & Pengembangan,Manager,4,Ya,Cerai,Jarang,14756,5,0,3,3,3,8,0,3-5 tahun,Q4 (tertinggi)
+85,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Sering,6499,6,0,2,3,0,11,0,6-10 tahun,Q3
+86,45,Tidak,Riset & Pengembangan,Research Scientist,3,Tidak,Cerai,Jarang,9724,1,0,1,3,1,7,0,1 tahun,Q4 (tertinggi)
+88,35,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,2194,3,1,1,2,1,1,0,3-5 tahun,Q1 (terendah)
+90,36,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3388,1,0,3,2,1,9,1,1 tahun,Q2
+91,59,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,5473,4,1,3,2,0,1,0,3-5 tahun,Q3
+94,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2703,5,0,2,3,1,2,0,3-5 tahun,Q1 (terendah)
+95,31,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2501,1,1,2,3,0,1,0,1 tahun,Q1 (terendah)
+96,32,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,6220,10,0,2,3,2,1,0,6-10 tahun,Q3
+97,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3038,1,0,4,3,0,6,0,1 tahun,Q2
+98,31,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,4424,11,1,4,3,0,8,0,>10 tahun,Q2
+100,35,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4312,15,2,1,3,0,1,0,>10 tahun,Q2
+101,45,Tidak,Riset & Pengembangan,Research Director,3,Ya,Menikah,Jarang,13245,0,0,1,4,0,6,0,<1 tahun,Q4 (tertinggi)
+102,37,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Lajang,Jarang,13664,5,0,3,4,0,7,0,3-5 tahun,Q4 (tertinggi)
+103,46,Tidak,SDM,Human Resources,2,Ya,Cerai,Jarang,5021,4,0,2,3,1,5,0,3-5 tahun,Q3
+104,30,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Jarang,5126,10,3,4,2,2,1,0,6-10 tahun,Q3
+105,35,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2859,6,0,3,3,0,1,0,6-10 tahun,Q1 (terendah)
+106,55,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10239,1,1,4,3,1,1,0,1 tahun,Q4 (tertinggi)
+107,38,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Tidak pernah,5329,13,1,4,3,3,6,0,>10 tahun,Q3
+110,34,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4325,5,1,2,3,0,1,0,3-5 tahun,Q2
+112,56,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,7260,6,0,4,2,0,7,0,6-10 tahun,Q3
+113,23,Tidak,Penjualan,Sales Representative,1,Tidak,Cerai,Jarang,2322,0,0,1,3,1,2,0,<1 tahun,Q1 (terendah)
+116,51,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2075,4,0,4,3,2,9,0,3-5 tahun,Q1 (terendah)
+117,30,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,4152,11,10,4,3,3,2,0,>10 tahun,Q2
+118,46,Ya,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,9619,9,4,4,3,0,9,1,6-10 tahun,Q4 (tertinggi)
+119,40,Tidak,Riset & Pengembangan,Healthcare Representative,4,Tidak,Menikah,Sering,13503,22,11,2,2,1,1,0,>10 tahun,Q4 (tertinggi)
+120,51,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,5441,10,1,4,1,0,21,0,6-10 tahun,Q3
+121,30,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5209,11,2,2,2,3,4,0,>10 tahun,Q3
+124,46,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Menikah,Sering,10673,10,9,1,2,1,1,0,6-10 tahun,Q4 (tertinggi)
+125,32,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5010,11,5,3,3,0,6,0,>10 tahun,Q3
+126,54,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,13549,4,0,3,1,1,2,0,3-5 tahun,Q4 (tertinggi)
+128,24,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4999,3,0,3,2,1,3,0,3-5 tahun,Q3
+129,28,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,4221,5,0,3,4,0,4,0,3-5 tahun,Q2
+131,58,Tidak,Penjualan,Sales Executive,4,Tidak,Lajang,Jarang,13872,37,1,3,2,0,10,0,>10 tahun,Q4 (tertinggi)
+132,44,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Tidak pernah,2042,3,1,2,4,1,23,0,3-5 tahun,Q1 (terendah)
+133,37,Ya,SDM,Human Resources,1,Ya,Cerai,Jarang,2073,3,0,1,3,0,6,1,3-5 tahun,Q1 (terendah)
+134,32,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2956,1,0,1,3,0,1,0,1 tahun,Q2
+137,20,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Sering,2926,1,1,4,3,0,6,1,1 tahun,Q2
+138,34,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,4809,16,2,3,3,0,6,0,>10 tahun,Q2
+139,37,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Tidak pernah,5163,1,0,4,4,1,2,0,1 tahun,Q3
+140,59,Tidak,SDM,Manager,5,Tidak,Menikah,Tidak pernah,18844,3,2,4,3,1,2,0,3-5 tahun,Q4 (tertinggi)
+141,50,Tidak,Riset & Pengembangan,Research Director,5,Ya,Menikah,Sering,18172,8,0,2,2,0,1,0,6-10 tahun,Q4 (tertinggi)
+142,25,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,5744,6,0,3,3,0,5,1,6-10 tahun,Q3
+143,25,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2889,2,2,4,3,2,7,0,2 tahun,Q1 (terendah)
+144,22,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2871,0,0,4,3,0,15,0,<1 tahun,Q1 (terendah)
+145,51,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Sering,7484,13,12,1,2,0,1,0,>10 tahun,Q3
+147,34,Ya,Riset & Pengembangan,Laboratory Technician,2,Ya,Lajang,Sering,6074,9,0,3,3,0,7,1,6-10 tahun,Q3
+148,54,Tidak,SDM,Manager,4,Ya,Lajang,Tidak pernah,17328,5,4,4,3,0,26,0,3-5 tahun,Q4 (tertinggi)
+150,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2774,5,1,3,3,1,18,0,3-5 tahun,Q1 (terendah)
+151,34,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Jarang,4505,1,0,2,3,1,6,0,1 tahun,Q2
+152,37,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,7428,5,1,4,3,0,3,0,3-5 tahun,Q3
+153,34,Tidak,Riset & Pengembangan,Manager,3,Tidak,Lajang,Jarang,11631,11,5,1,3,0,5,0,>10 tahun,Q4 (tertinggi)
+154,36,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,9738,9,2,4,3,1,11,0,6-10 tahun,Q4 (tertinggi)
+155,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2835,1,0,4,3,1,3,0,1 tahun,Q1 (terendah)
+158,43,Tidak,Penjualan,Manager,4,Ya,Menikah,Sering,16959,25,4,4,4,2,26,0,>10 tahun,Q4 (tertinggi)
+159,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,2613,10,0,3,2,3,23,0,6-10 tahun,Q1 (terendah)
+160,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,6146,7,0,2,4,1,22,0,6-10 tahun,Q3
+161,56,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,4963,5,4,2,3,3,14,1,3-5 tahun,Q3
+162,51,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Lajang,Jarang,19537,20,15,3,3,0,6,0,>10 tahun,Q4 (tertinggi)
+163,31,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,6172,7,7,3,2,0,6,1,6-10 tahun,Q3
+164,26,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2368,5,4,2,2,0,6,0,3-5 tahun,Q1 (terendah)
+165,58,Ya,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,10312,40,15,4,2,1,23,1,>10 tahun,Q4 (tertinggi)
+167,19,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,1675,0,0,3,2,0,22,1,<1 tahun,Q1 (terendah)
+169,22,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2523,2,2,4,3,1,2,0,2 tahun,Q1 (terendah)
+170,49,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6567,15,5,1,2,0,20,0,>10 tahun,Q3
+171,43,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Sering,4739,3,1,3,3,0,28,0,3-5 tahun,Q2
+174,50,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Sering,9208,2,2,4,3,0,12,0,2 tahun,Q4 (tertinggi)
+175,31,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4559,2,2,3,3,1,20,1,2 tahun,Q2
+176,41,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,8189,9,0,3,3,1,9,0,6-10 tahun,Q3
+177,26,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2942,8,5,3,3,1,25,0,6-10 tahun,Q2
+178,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4941,3,0,2,3,2,6,0,3-5 tahun,Q3
+179,51,Ya,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Sering,10650,4,0,4,3,0,8,1,3-5 tahun,Q4 (tertinggi)
+182,39,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5902,15,5,3,4,1,4,0,>10 tahun,Q3
+183,25,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,8639,2,2,3,3,0,28,0,2 tahun,Q4 (tertinggi)
+184,30,Tidak,SDM,Human Resources,2,Ya,Menikah,Jarang,6347,11,4,4,1,0,9,0,>10 tahun,Q3
+190,32,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,4200,5,0,1,4,0,9,1,3-5 tahun,Q2
+192,45,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3452,6,0,4,2,0,29,0,6-10 tahun,Q2
+193,38,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Lajang,Jarang,4317,3,2,3,3,0,3,0,3-5 tahun,Q2
+194,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2632,5,0,3,2,0,18,0,3-5 tahun,Q1 (terendah)
+195,32,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Sering,4668,8,0,4,4,3,9,0,6-10 tahun,Q2
+197,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,3204,3,2,1,3,1,5,0,3-5 tahun,Q2
+198,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2720,5,1,4,3,0,2,0,3-5 tahun,Q1 (terendah)
+199,41,Tidak,Riset & Pengembangan,Manager,4,Tidak,Cerai,Sering,17181,7,7,1,2,1,10,0,6-10 tahun,Q4 (tertinggi)
+200,41,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2238,5,1,1,3,1,9,0,3-5 tahun,Q1 (terendah)
+201,19,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,1483,1,0,2,3,0,3,0,1 tahun,Q1 (terendah)
+202,40,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Sering,5605,20,2,2,3,1,26,0,>10 tahun,Q3
+204,35,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7295,10,0,2,3,2,1,0,6-10 tahun,Q3
+205,53,Tidak,Penjualan,Sales Representative,2,Ya,Menikah,Jarang,2306,7,4,3,1,1,6,0,6-10 tahun,Q1 (terendah)
+206,45,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,2348,17,0,2,1,1,9,0,>10 tahun,Q1 (terendah)
+207,32,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Sering,8998,9,3,4,3,0,8,0,6-10 tahun,Q4 (tertinggi)
+208,29,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Tidak pernah,4319,10,0,3,3,1,1,0,6-10 tahun,Q2
+211,51,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6132,1,0,3,3,0,7,0,1 tahun,Q3
+214,58,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3346,1,0,2,2,1,9,0,1 tahun,Q2
+215,40,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10855,12,2,4,2,1,4,0,>10 tahun,Q4 (tertinggi)
+216,34,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2231,4,1,3,3,1,2,0,3-5 tahun,Q1 (terendah)
+217,22,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2323,2,2,4,3,2,19,0,2 tahun,Q1 (terendah)
+218,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Tidak pernah,2024,2,2,2,1,1,9,0,2 tahun,Q1 (terendah)
+221,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2713,5,0,4,1,1,21,0,3-5 tahun,Q1 (terendah)
+223,57,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Cerai,Jarang,9439,5,1,4,1,1,24,0,3-5 tahun,Q4 (tertinggi)
+224,27,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Tidak pernah,2566,1,0,3,2,1,3,0,1 tahun,Q1 (terendah)
+226,50,Tidak,Riset & Pengembangan,Manager,5,Tidak,Lajang,Jarang,19926,5,4,2,3,0,11,0,3-5 tahun,Q4 (tertinggi)
+227,41,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2451,9,1,3,3,1,14,0,6-10 tahun,Q1 (terendah)
+228,30,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,9419,10,7,4,3,1,5,0,6-10 tahun,Q4 (tertinggi)
+230,38,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,8686,8,0,4,4,0,1,0,6-10 tahun,Q4 (tertinggi)
+231,32,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3038,5,1,3,3,0,6,0,3-5 tahun,Q2
+233,27,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3058,5,1,2,2,1,17,0,3-5 tahun,Q2
+235,19,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Sering,2325,0,0,1,4,0,1,1,<1 tahun,Q1 (terendah)
+238,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2088,8,7,2,2,0,3,0,6-10 tahun,Q1 (terendah)
+239,30,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Tidak pernah,3072,12,6,1,3,2,9,0,>10 tahun,Q2
+240,45,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5006,5,0,1,4,1,4,0,3-5 tahun,Q3
+241,56,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Jarang,4257,2,2,1,3,1,8,0,2 tahun,Q2
+242,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2500,3,0,4,4,0,2,0,3-5 tahun,Q1 (terendah)
+243,19,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,1102,1,1,4,2,0,2,1,1 tahun,Q1 (terendah)
+244,46,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,10453,24,15,1,3,3,1,0,>10 tahun,Q4 (tertinggi)
+245,38,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2288,2,2,4,3,0,9,0,2 tahun,Q1 (terendah)
+246,31,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3929,4,0,4,3,1,12,0,3-5 tahun,Q2
+247,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2311,3,1,2,3,0,27,0,3-5 tahun,Q1 (terendah)
+248,41,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,3140,4,0,2,2,0,20,1,3-5 tahun,Q2
+249,50,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3690,3,0,3,2,1,1,0,3-5 tahun,Q2
+250,53,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4450,4,1,1,3,2,13,0,3-5 tahun,Q2
+252,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2756,8,1,2,3,1,14,0,6-10 tahun,Q1 (terendah)
+253,40,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19033,20,9,3,3,1,4,0,>10 tahun,Q4 (tertinggi)
+254,55,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Lajang,Jarang,18722,24,2,2,3,0,14,0,>10 tahun,Q4 (tertinggi)
+256,34,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Sering,9547,10,1,3,2,0,2,0,6-10 tahun,Q4 (tertinggi)
+258,51,Tidak,Riset & Pengembangan,Healthcare Representative,4,Tidak,Lajang,Jarang,13734,7,1,2,3,0,3,0,6-10 tahun,Q4 (tertinggi)
+259,52,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19999,33,11,3,3,1,1,0,>10 tahun,Q4 (tertinggi)
+260,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2279,7,0,2,2,0,9,0,6-10 tahun,Q1 (terendah)
+261,35,Ya,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,5916,1,0,3,3,0,23,1,1 tahun,Q3
+262,43,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Tidak pernah,2089,5,2,4,4,3,7,0,3-5 tahun,Q1 (terendah)
+264,45,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Tidak pernah,16792,20,11,4,3,1,2,0,>10 tahun,Q4 (tertinggi)
+267,37,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3564,8,1,1,2,1,21,0,6-10 tahun,Q2
+269,35,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Sering,4425,6,1,2,3,0,2,0,6-10 tahun,Q2
+270,42,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Tidak pernah,5265,5,0,3,3,1,21,0,3-5 tahun,Q3
+271,38,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6553,1,0,3,3,0,2,0,1 tahun,Q3
+273,38,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6261,7,1,4,1,1,29,0,6-10 tahun,Q3
+274,27,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Sering,4298,2,2,1,3,1,1,0,2 tahun,Q2
+275,49,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Cerai,Tidak pernah,6804,7,1,4,3,2,18,0,6-10 tahun,Q3
+277,34,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Sering,3815,5,2,3,4,1,10,0,3-5 tahun,Q2
+281,40,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Jarang,2741,7,3,4,4,1,19,0,6-10 tahun,Q1 (terendah)
+282,38,Ya,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,6673,1,0,1,3,0,29,1,1 tahun,Q3
+283,29,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7639,10,1,4,2,3,27,1,6-10 tahun,Q3
+284,22,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Jarang,2328,4,2,2,2,1,5,0,3-5 tahun,Q1 (terendah)
+286,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2153,8,1,4,3,0,18,0,6-10 tahun,Q1 (terendah)
+287,40,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Tidak pernah,4876,3,0,4,1,1,9,0,3-5 tahun,Q2
+288,46,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,9396,4,0,1,3,1,1,0,3-5 tahun,Q4 (tertinggi)
+291,32,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10400,14,9,4,2,0,4,1,>10 tahun,Q4 (tertinggi)
+292,30,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Tidak pernah,8474,11,5,3,3,0,1,0,>10 tahun,Q4 (tertinggi)
+293,27,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,9981,7,0,3,3,0,20,0,6-10 tahun,Q4 (tertinggi)
+296,51,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,12490,10,4,2,1,2,8,0,6-10 tahun,Q4 (tertinggi)
+297,30,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2657,5,0,1,3,0,3,1,3-5 tahun,Q1 (terendah)
+298,41,Tidak,Penjualan,Manager,3,Ya,Lajang,Jarang,13591,1,0,4,3,0,6,0,1 tahun,Q4 (tertinggi)
+299,30,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,6696,6,0,1,2,0,26,1,6-10 tahun,Q3
+300,29,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2058,6,1,3,2,0,1,1,6-10 tahun,Q1 (terendah)
+302,45,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Tidak pernah,8865,19,12,4,3,0,6,0,>10 tahun,Q4 (tertinggi)
+303,54,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5940,6,0,1,3,1,3,0,6-10 tahun,Q3
+304,36,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,5914,13,3,2,4,0,5,0,>10 tahun,Q3
+305,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2622,3,1,2,3,0,4,0,3-5 tahun,Q1 (terendah)
+306,37,Tidak,Riset & Pengembangan,Research Director,3,Ya,Cerai,Sering,12185,10,0,4,3,3,11,0,6-10 tahun,Q4 (tertinggi)
+307,38,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,10609,16,5,3,2,2,3,0,>10 tahun,Q4 (tertinggi)
+308,31,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Tidak pernah,4345,5,1,3,3,1,1,0,3-5 tahun,Q2
+309,59,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2177,1,0,4,3,1,3,0,1 tahun,Q1 (terendah)
+311,37,Tidak,Penjualan,Sales Representative,1,Tidak,Cerai,Sering,2793,9,5,4,3,1,4,0,6-10 tahun,Q1 (terendah)
+312,29,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,7918,11,4,4,3,1,1,0,>10 tahun,Q3
+314,35,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Sering,8789,10,0,3,4,0,1,0,6-10 tahun,Q4 (tertinggi)
+315,29,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2389,4,0,4,2,0,18,1,3-5 tahun,Q1 (terendah)
+316,52,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3212,2,2,4,2,0,2,0,2 tahun,Q2
+319,42,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19232,22,11,4,3,0,4,0,>10 tahun,Q4 (tertinggi)
+321,59,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2267,2,2,3,2,0,6,0,2 tahun,Q1 (terendah)
+323,50,Tidak,Penjualan,Manager,5,Tidak,Cerai,Jarang,19517,7,0,4,2,1,1,0,6-10 tahun,Q4 (tertinggi)
+325,33,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2436,5,0,4,1,1,14,1,3-5 tahun,Q1 (terendah)
+327,43,Tidak,Penjualan,Manager,4,Ya,Menikah,Jarang,16064,17,1,4,3,1,16,0,>10 tahun,Q4 (tertinggi)
+328,33,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2707,9,1,1,4,0,2,1,6-10 tahun,Q1 (terendah)
+329,52,Tidak,Penjualan,Manager,5,Ya,Lajang,Tidak pernah,19068,33,15,3,4,0,2,0,>10 tahun,Q4 (tertinggi)
+330,32,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,3931,4,1,2,3,1,4,0,3-5 tahun,Q2
+331,32,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,3730,3,1,3,1,0,1,1,3-5 tahun,Q2
+332,39,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2232,3,1,3,3,3,1,0,3-5 tahun,Q1 (terendah)
+333,32,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,4465,3,2,4,3,0,26,0,3-5 tahun,Q2
+334,41,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Jarang,3072,1,0,1,2,2,19,0,1 tahun,Q2
+335,40,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Jarang,3319,9,4,4,3,2,24,0,6-10 tahun,Q2
+336,45,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19202,24,1,4,3,1,1,0,>10 tahun,Q4 (tertinggi)
+337,31,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Cerai,Sering,13675,2,2,3,3,1,3,0,2 tahun,Q4 (tertinggi)
+338,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2911,2,0,4,2,1,5,0,2 tahun,Q1 (terendah)
+339,34,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5957,11,5,1,3,1,2,0,>10 tahun,Q3
+340,37,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3920,3,0,1,2,1,1,0,3-5 tahun,Q2
+341,45,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Sering,6434,3,0,3,3,1,7,0,3-5 tahun,Q3
+342,37,Ya,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Sering,10048,1,0,3,3,2,10,1,1 tahun,Q4 (tertinggi)
+343,39,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Sering,10938,19,11,3,3,0,2,0,>10 tahun,Q4 (tertinggi)
+346,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2340,6,1,4,3,0,15,0,6-10 tahun,Q1 (terendah)
+347,42,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Lajang,Jarang,6545,3,0,1,3,0,17,0,3-5 tahun,Q3
+349,29,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,6931,3,0,4,3,1,20,0,3-5 tahun,Q3
+350,25,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4898,4,1,3,3,2,1,0,3-5 tahun,Q2
+351,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,2593,9,7,1,3,1,2,0,6-10 tahun,Q1 (terendah)
+352,40,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Cerai,Jarang,19436,21,3,3,3,1,2,0,>10 tahun,Q4 (tertinggi)
+353,51,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2723,1,0,4,2,0,1,0,1 tahun,Q1 (terendah)
+355,31,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,3479,5,1,2,4,0,29,1,3-5 tahun,Q2
+359,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2794,5,0,2,1,0,7,0,3-5 tahun,Q1 (terendah)
+361,38,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,5249,8,7,4,3,1,2,0,6-10 tahun,Q3
+362,32,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,2176,6,0,1,3,0,2,0,6-10 tahun,Q1 (terendah)
+363,46,Tidak,Penjualan,Manager,4,Ya,Menikah,Jarang,16872,7,7,2,2,1,2,0,6-10 tahun,Q4 (tertinggi)
+364,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3485,0,0,3,1,0,2,1,<1 tahun,Q2
+366,29,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6644,0,0,2,3,2,2,0,<1 tahun,Q3
+367,31,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5582,9,7,4,3,1,23,0,6-10 tahun,Q3
+369,25,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Tidak pernah,4000,6,1,1,3,2,5,0,6-10 tahun,Q2
+372,45,Tidak,Riset & Pengembangan,Healthcare Representative,4,Ya,Menikah,Jarang,13496,20,4,4,3,0,20,0,>10 tahun,Q4 (tertinggi)
+373,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3210,15,10,4,3,1,6,0,>10 tahun,Q2
+374,55,Tidak,Riset & Pengembangan,Manager,5,Ya,Lajang,Jarang,19045,36,4,1,3,0,1,0,>10 tahun,Q4 (tertinggi)
+376,47,Ya,Riset & Pengembangan,Manager,3,Ya,Menikah,Tidak pernah,11849,10,9,2,2,1,29,1,6-10 tahun,Q4 (tertinggi)
+377,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2070,5,0,4,2,1,9,0,3-5 tahun,Q1 (terendah)
+378,37,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6502,5,0,4,4,1,6,0,3-5 tahun,Q3
+379,21,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3230,3,1,3,4,0,3,0,3-5 tahun,Q2
+380,37,Tidak,Riset & Pengembangan,Research Director,3,Ya,Cerai,Tidak pernah,13603,5,0,4,3,2,1,0,3-5 tahun,Q4 (tertinggi)
+381,35,Tidak,Riset & Pengembangan,Manager,3,Tidak,Cerai,Jarang,11996,7,6,2,2,1,22,0,6-10 tahun,Q4 (tertinggi)
+382,38,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5605,8,7,1,3,1,7,0,6-10 tahun,Q3
+384,26,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Sering,6397,6,1,2,1,1,1,0,6-10 tahun,Q3
+385,50,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Cerai,Jarang,19144,10,1,2,2,2,4,0,6-10 tahun,Q4 (tertinggi)
+386,53,Tidak,Riset & Pengembangan,Research Director,4,Ya,Menikah,Jarang,17584,5,1,3,2,3,3,0,3-5 tahun,Q4 (tertinggi)
+387,42,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4907,20,11,3,3,0,1,0,>10 tahun,Q2
+388,29,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,4554,10,0,4,2,0,2,0,6-10 tahun,Q2
+389,55,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Jarang,5415,10,0,4,3,1,20,0,6-10 tahun,Q3
+390,26,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Sering,4741,5,3,1,3,1,11,0,3-5 tahun,Q2
+391,37,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2115,17,5,4,3,0,1,0,>10 tahun,Q1 (terendah)
+392,44,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Sering,3161,1,0,3,1,1,24,1,1 tahun,Q2
+393,38,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,5745,2,1,4,3,1,23,0,2 tahun,Q3
+394,26,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,2373,3,0,2,3,1,16,1,3-5 tahun,Q1 (terendah)
+395,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3310,5,0,4,3,0,8,0,3-5 tahun,Q2
+396,49,Tidak,Riset & Pengembangan,Research Director,5,Ya,Lajang,Sering,18665,3,1,1,3,0,10,0,3-5 tahun,Q4 (tertinggi)
+397,36,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,4485,8,7,2,3,0,3,0,6-10 tahun,Q2
+399,31,Tidak,Penjualan,Sales Representative,1,Tidak,Cerai,Sering,2789,2,2,2,2,1,5,0,2 tahun,Q1 (terendah)
+401,26,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,5828,8,7,4,3,0,4,1,6-10 tahun,Q3
+403,37,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Sering,2326,4,1,4,2,3,9,0,3-5 tahun,Q1 (terendah)
+404,42,Tidak,Penjualan,Sales Executive,4,Tidak,Menikah,Sering,13525,20,4,2,4,1,26,0,>10 tahun,Q4 (tertinggi)
+405,18,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,1420,0,0,3,3,0,3,1,<1 tahun,Q1 (terendah)
+406,35,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,8020,11,6,2,2,2,16,0,>10 tahun,Q3
+407,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,3688,1,0,4,3,2,18,0,1 tahun,Q2
+408,51,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,5482,4,1,2,3,1,2,0,3-5 tahun,Q3
+410,41,Tidak,Penjualan,Manager,4,Tidak,Lajang,Jarang,16015,22,0,2,3,0,2,0,>10 tahun,Q4 (tertinggi)
+411,18,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,1200,0,0,3,3,0,10,0,<1 tahun,Q1 (terendah)
+412,28,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,5661,8,0,1,3,0,16,0,6-10 tahun,Q3
+416,31,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6929,8,7,4,2,1,7,0,6-10 tahun,Q3
+417,39,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,9613,18,3,4,2,3,1,0,>10 tahun,Q4 (tertinggi)
+419,36,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Tidak pernah,5674,9,0,2,3,1,24,0,6-10 tahun,Q3
+420,32,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5484,13,4,3,2,1,7,0,>10 tahun,Q3
+421,38,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,12061,10,0,2,3,1,25,0,6-10 tahun,Q4 (tertinggi)
+422,58,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Cerai,Tidak pernah,5660,5,1,3,3,1,1,0,3-5 tahun,Q3
+423,31,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,4821,5,0,4,3,1,5,0,3-5 tahun,Q2
+424,31,Tidak,SDM,Human Resources,2,Tidak,Menikah,Jarang,6410,2,1,1,3,0,2,0,2 tahun,Q3
+425,45,Tidak,Riset & Pengembangan,Laboratory Technician,3,Tidak,Cerai,Sering,5210,24,9,1,3,1,7,0,>10 tahun,Q3
+426,31,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Jarang,2695,2,2,4,1,1,2,0,2 tahun,Q1 (terendah)
+428,33,Tidak,Riset & Pengembangan,Manager,3,Tidak,Menikah,Sering,11878,10,8,2,3,2,5,0,6-10 tahun,Q4 (tertinggi)
+429,39,Tidak,Riset & Pengembangan,Manager,4,Ya,Menikah,Jarang,17068,21,11,1,3,0,10,0,>10 tahun,Q4 (tertinggi)
+430,43,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2455,8,1,4,3,0,10,0,6-10 tahun,Q1 (terendah)
+431,49,Tidak,Riset & Pengembangan,Healthcare Representative,4,Ya,Lajang,Jarang,13964,7,0,3,3,0,1,0,6-10 tahun,Q4 (tertinggi)
+433,52,Ya,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,4941,8,7,2,2,0,8,1,6-10 tahun,Q3
+434,27,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2478,4,1,2,2,0,5,0,3-5 tahun,Q1 (terendah)
+436,32,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,5228,13,11,2,3,0,8,0,>10 tahun,Q3
+437,27,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,4478,5,0,3,3,0,2,0,3-5 tahun,Q2
+438,31,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,7547,7,1,4,3,3,7,0,6-10 tahun,Q3
+439,32,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,5055,7,0,4,2,0,2,0,6-10 tahun,Q3
+440,28,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3464,3,2,4,2,0,2,1,3-5 tahun,Q2
+441,30,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,5775,10,1,4,3,2,28,0,6-10 tahun,Q3
+442,31,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Sering,8943,10,8,3,3,1,7,0,6-10 tahun,Q4 (tertinggi)
+444,39,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Sering,19272,21,13,4,3,1,7,0,>10 tahun,Q4 (tertinggi)
+445,39,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,5238,1,0,3,2,0,3,1,1 tahun,Q3
+446,33,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,4682,7,0,4,2,0,10,0,6-10 tahun,Q2
+447,47,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,18300,3,1,3,3,1,5,0,3-5 tahun,Q4 (tertinggi)
+448,43,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Sering,5257,9,0,3,4,1,10,0,6-10 tahun,Q3
+449,27,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Tidak pernah,6349,5,1,2,3,1,1,0,3-5 tahun,Q3
+450,54,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Sering,4869,4,0,3,2,0,20,0,3-5 tahun,Q2
+451,43,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,9985,1,0,1,2,1,7,0,1 tahun,Q4 (tertinggi)
+452,45,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,3697,10,9,4,3,2,8,0,6-10 tahun,Q2
+453,40,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,7457,4,0,4,2,3,1,0,3-5 tahun,Q3
+454,29,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2119,7,0,1,2,0,8,1,6-10 tahun,Q1 (terendah)
+455,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3983,3,2,4,3,0,9,0,3-5 tahun,Q2
+456,30,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,6118,10,1,3,3,3,5,0,6-10 tahun,Q3
+458,27,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6214,8,0,2,3,1,8,0,6-10 tahun,Q3
+460,37,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,6347,6,0,4,2,2,5,0,6-10 tahun,Q3
+461,38,Tidak,Riset & Pengembangan,Research Director,3,Ya,Cerai,Jarang,11510,11,2,4,3,1,15,0,>10 tahun,Q4 (tertinggi)
+462,31,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Lajang,Jarang,7143,11,4,4,2,0,7,0,>10 tahun,Q3
+463,29,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,8268,7,1,2,3,2,10,0,6-10 tahun,Q3
+464,35,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,8095,16,0,2,3,0,5,0,>10 tahun,Q3
+465,23,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2904,4,0,4,2,2,26,0,3-5 tahun,Q1 (terendah)
+466,41,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Jarang,6032,5,1,2,3,0,6,0,3-5 tahun,Q3
+467,47,Tidak,Penjualan,Sales Representative,2,Tidak,Lajang,Sering,2976,0,0,3,3,0,4,0,<1 tahun,Q2
+468,42,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Lajang,Jarang,15992,1,0,4,3,0,23,0,1 tahun,Q4 (tertinggi)
+469,29,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,4649,4,0,3,2,1,2,0,3-5 tahun,Q2
+470,42,Tidak,SDM,Human Resources,1,Ya,Cerai,Jarang,2696,3,1,3,3,1,2,0,3-5 tahun,Q1 (terendah)
+471,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2370,8,0,2,3,1,2,0,6-10 tahun,Q1 (terendah)
+473,48,Tidak,Penjualan,Manager,3,Tidak,Menikah,Jarang,12504,0,0,3,1,1,29,0,<1 tahun,Q4 (tertinggi)
+474,37,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Jarang,5974,7,6,1,3,2,6,0,6-10 tahun,Q3
+475,30,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Tidak pernah,4736,2,2,3,4,1,25,0,2 tahun,Q2
+476,26,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5296,8,7,3,3,1,1,0,6-10 tahun,Q3
+477,42,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6781,1,0,4,3,0,2,0,1 tahun,Q3
+478,21,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Sering,2174,3,1,2,3,0,1,1,3-5 tahun,Q1 (terendah)
+479,36,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,6653,1,0,4,3,0,1,0,1 tahun,Q3
+481,36,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,9699,13,1,4,3,1,3,0,>10 tahun,Q4 (tertinggi)
+482,57,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,6755,3,1,3,3,0,1,0,3-5 tahun,Q3
+483,40,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2213,7,1,3,3,1,10,0,6-10 tahun,Q1 (terendah)
+484,21,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Tidak pernah,2610,3,2,4,2,0,9,0,3-5 tahun,Q1 (terendah)
+485,33,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,2851,1,0,3,3,0,5,1,1 tahun,Q1 (terendah)
+486,37,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3452,5,0,1,3,1,10,0,3-5 tahun,Q2
+487,46,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Tidak pernah,5258,1,0,3,4,0,7,0,1 tahun,Q3
+488,41,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,9355,8,7,2,3,0,4,1,6-10 tahun,Q4 (tertinggi)
+491,50,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,10496,4,1,4,3,0,10,0,3-5 tahun,Q4 (tertinggi)
+492,40,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,6380,6,1,3,3,2,22,1,6-10 tahun,Q3
+493,31,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2657,2,2,2,3,0,9,0,2 tahun,Q1 (terendah)
+494,21,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2716,1,0,2,3,0,12,1,1 tahun,Q1 (terendah)
+495,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2201,3,1,4,3,0,23,0,3-5 tahun,Q1 (terendah)
+496,35,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6540,1,0,2,3,0,9,0,1 tahun,Q3
+497,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,3816,5,0,2,3,1,1,0,3-5 tahun,Q2
+498,28,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5253,7,0,4,3,0,9,0,6-10 tahun,Q3
+499,49,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,10965,5,0,3,3,0,7,0,3-5 tahun,Q4 (tertinggi)
+500,51,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4936,7,0,4,2,1,14,0,6-10 tahun,Q3
+501,36,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2543,2,2,3,3,1,2,0,2 tahun,Q1 (terendah)
+502,34,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Tidak pernah,5304,5,0,4,2,0,19,1,3-5 tahun,Q3
+505,55,Tidak,Riset & Pengembangan,Manager,4,Ya,Lajang,Jarang,16659,5,1,4,3,0,2,0,3-5 tahun,Q4 (tertinggi)
+507,24,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,4260,5,0,3,4,1,10,0,3-5 tahun,Q2
+508,30,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2476,1,0,2,3,1,2,0,1 tahun,Q1 (terendah)
+510,26,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Sering,3102,6,0,1,3,0,3,1,6-10 tahun,Q2
+511,22,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2244,2,1,2,3,1,11,0,2 tahun,Q1 (terendah)
+513,36,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7596,10,9,3,3,2,2,0,6-10 tahun,Q3
+514,30,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,2285,1,0,4,3,0,4,1,1 tahun,Q1 (terendah)
+515,37,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,3034,18,12,1,2,1,14,0,>10 tahun,Q2
+516,40,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,5715,5,1,2,3,2,2,0,3-5 tahun,Q3
+517,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2576,5,1,1,3,1,1,0,3-5 tahun,Q1 (terendah)
+518,37,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Jarang,4197,1,0,2,2,0,10,0,1 tahun,Q2
+520,43,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Cerai,Jarang,14336,25,3,2,3,1,12,0,>10 tahun,Q4 (tertinggi)
+521,40,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,3448,1,0,3,3,1,2,0,1 tahun,Q2
+522,54,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,19406,4,1,1,2,1,5,0,3-5 tahun,Q4 (tertinggi)
+523,34,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,6538,3,1,3,3,1,4,0,3-5 tahun,Q3
+524,31,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4306,13,3,1,1,1,7,0,>10 tahun,Q2
+525,43,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2258,3,1,4,3,1,21,0,3-5 tahun,Q1 (terendah)
+526,43,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Cerai,Jarang,4522,5,0,3,3,0,8,0,3-5 tahun,Q2
+527,25,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,4487,5,1,4,3,0,4,0,3-5 tahun,Q2
+529,37,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Tidak pernah,4449,13,10,3,3,2,25,0,>10 tahun,Q2
+530,31,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2218,4,3,1,3,1,1,0,3-5 tahun,Q1 (terendah)
+531,39,Tidak,Riset & Pengembangan,Manager,5,Ya,Cerai,Sering,19197,21,1,3,3,1,1,0,>10 tahun,Q4 (tertinggi)
+532,56,Tidak,Penjualan,Sales Executive,4,Tidak,Menikah,Sering,13212,7,7,1,2,3,6,0,6-10 tahun,Q4 (tertinggi)
+533,30,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6577,5,4,3,3,0,12,0,3-5 tahun,Q3
+534,41,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,8392,10,0,1,3,1,1,0,6-10 tahun,Q4 (tertinggi)
+536,28,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,4558,10,1,1,3,1,17,0,6-10 tahun,Q2
+538,25,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,4031,2,0,1,3,1,3,1,2 tahun,Q2
+543,52,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Menikah,Jarang,7969,5,0,3,3,0,3,0,3-5 tahun,Q3
+544,45,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2654,2,0,4,2,2,10,0,2 tahun,Q1 (terendah)
+546,52,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Jarang,16555,5,1,4,1,0,4,0,3-5 tahun,Q4 (tertinggi)
+547,42,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Sering,4556,5,0,3,3,1,29,0,3-5 tahun,Q2
+548,30,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,6091,5,0,4,3,0,2,0,3-5 tahun,Q3
+549,60,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19566,29,11,1,1,0,7,0,>10 tahun,Q4 (tertinggi)
+550,46,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4810,10,0,3,2,1,18,0,6-10 tahun,Q2
+551,42,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Sering,4523,6,0,4,4,3,28,0,6-10 tahun,Q2
+554,24,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,3202,5,1,2,3,0,1,1,3-5 tahun,Q2
+555,34,Ya,Penjualan,Sales Representative,1,Tidak,Cerai,Sering,2351,2,1,3,2,1,6,1,2 tahun,Q1 (terendah)
+556,38,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Sering,1702,1,0,4,3,1,2,0,1 tahun,Q1 (terendah)
+558,40,Tidak,Penjualan,Manager,5,Tidak,Menikah,Jarang,18041,20,1,3,3,0,2,0,>10 tahun,Q4 (tertinggi)
+560,26,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2886,3,0,4,1,2,23,0,3-5 tahun,Q1 (terendah)
+562,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Tidak pernah,2097,5,1,4,1,1,3,0,3-5 tahun,Q1 (terendah)
+564,29,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,11935,10,0,3,3,0,3,0,6-10 tahun,Q4 (tertinggi)
+565,29,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2546,2,1,2,4,0,25,1,2 tahun,Q1 (terendah)
+566,19,Ya,SDM,Human Resources,1,Tidak,Lajang,Jarang,2564,1,0,4,4,0,2,1,1 tahun,Q1 (terendah)
+567,30,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Tidak pernah,8412,9,7,1,3,0,22,0,6-10 tahun,Q4 (tertinggi)
+568,57,Tidak,Penjualan,Manager,4,Tidak,Cerai,Jarang,14118,1,0,4,2,1,29,0,1 tahun,Q4 (tertinggi)
+569,50,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Jarang,17046,27,15,3,3,1,29,0,>10 tahun,Q4 (tertinggi)
+571,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,2564,11,6,4,2,0,2,0,>10 tahun,Q1 (terendah)
+573,60,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,10266,18,13,1,4,0,28,0,>10 tahun,Q4 (tertinggi)
+574,47,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,5070,5,0,4,3,3,2,0,3-5 tahun,Q3
+575,46,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,17861,3,0,3,1,0,2,0,3-5 tahun,Q4 (tertinggi)
+577,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,4230,5,4,3,3,0,22,0,3-5 tahun,Q2
+578,54,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,3780,1,0,3,3,0,8,0,1 tahun,Q2
+579,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2768,7,5,3,3,1,2,0,6-10 tahun,Q1 (terendah)
+580,46,Tidak,Penjualan,Sales Executive,3,Ya,Menikah,Jarang,9071,3,1,4,3,1,10,0,3-5 tahun,Q4 (tertinggi)
+581,31,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Jarang,10648,13,0,2,4,1,9,0,>10 tahun,Q4 (tertinggi)
+582,33,Ya,Riset & Pengembangan,Manager,3,Ya,Menikah,Jarang,13610,7,7,3,4,0,15,1,6-10 tahun,Q4 (tertinggi)
+584,33,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,3408,4,1,4,3,3,10,1,3-5 tahun,Q2
+585,30,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2983,3,1,2,3,0,7,0,3-5 tahun,Q2
+586,35,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Menikah,Jarang,7632,8,0,3,3,0,16,0,6-10 tahun,Q3
+587,31,Ya,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Sering,9824,1,0,3,3,0,20,1,1 tahun,Q4 (tertinggi)
+590,34,Ya,SDM,Human Resources,3,Ya,Cerai,Sering,9950,3,0,1,3,3,23,1,3-5 tahun,Q4 (tertinggi)
+591,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2093,2,2,3,3,1,5,0,2 tahun,Q1 (terendah)
+592,36,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Tidak pernah,9980,10,9,4,2,0,10,0,6-10 tahun,Q4 (tertinggi)
+593,22,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,3894,2,1,3,3,0,4,1,2 tahun,Q2
+595,48,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4051,9,6,4,3,1,2,0,6-10 tahun,Q2
+597,55,Tidak,Penjualan,Manager,4,Tidak,Lajang,Jarang,16835,10,7,2,3,0,18,0,6-10 tahun,Q4 (tertinggi)
+599,41,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,6230,14,1,4,3,0,10,0,>10 tahun,Q3
+600,35,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4717,11,6,3,3,0,1,0,>10 tahun,Q2
+601,40,Tidak,Riset & Pengembangan,Manufacturing Director,4,Tidak,Lajang,Jarang,13237,20,5,3,3,0,6,0,>10 tahun,Q4 (tertinggi)
+602,39,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,3755,8,0,3,3,1,8,0,6-10 tahun,Q2
+604,31,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,6582,6,0,4,4,0,2,0,6-10 tahun,Q3
+605,42,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Menikah,Jarang,7406,10,5,1,2,1,24,0,6-10 tahun,Q3
+606,45,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4805,8,3,2,4,1,2,0,6-10 tahun,Q2
+608,26,Ya,SDM,Human Resources,1,Ya,Cerai,Sering,2741,7,1,3,2,1,17,1,6-10 tahun,Q1 (terendah)
+611,29,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4262,3,1,4,4,2,19,0,3-5 tahun,Q2
+612,33,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Cerai,Jarang,16184,6,0,3,3,1,1,0,6-10 tahun,Q4 (tertinggi)
+613,31,Tidak,Penjualan,Manager,3,Tidak,Cerai,Jarang,11557,5,0,4,2,1,7,0,3-5 tahun,Q4 (tertinggi)
+614,18,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Sering,1878,0,0,2,3,0,5,1,<1 tahun,Q1 (terendah)
+615,40,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Tidak pernah,10932,1,0,1,3,1,28,0,1 tahun,Q4 (tertinggi)
+616,41,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Lajang,Tidak pernah,6811,8,0,3,3,0,2,0,6-10 tahun,Q3
+618,26,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,4306,0,0,3,3,2,29,0,<1 tahun,Q2
+620,35,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4859,5,0,3,3,0,1,0,3-5 tahun,Q2
+621,34,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5337,10,5,4,3,0,21,0,6-10 tahun,Q3
+622,26,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,2340,1,0,4,1,0,24,1,1 tahun,Q1 (terendah)
+623,37,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,7491,6,1,4,4,0,1,0,6-10 tahun,Q3
+624,46,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Sering,10527,2,1,3,2,0,18,0,2 tahun,Q4 (tertinggi)
+625,41,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,16595,18,11,1,3,1,2,0,>10 tahun,Q4 (tertinggi)
+626,37,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Tidak pernah,8834,9,7,2,3,1,9,0,6-10 tahun,Q4 (tertinggi)
+630,52,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Jarang,5577,10,6,1,3,2,6,0,6-10 tahun,Q3
+631,32,Ya,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,4707,4,1,3,3,0,11,1,3-5 tahun,Q2
+632,24,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2400,2,2,4,3,2,24,0,2 tahun,Q1 (terendah)
+634,38,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,9824,1,0,3,3,1,10,0,1 tahun,Q4 (tertinggi)
+635,37,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6447,6,4,2,2,1,1,0,6-10 tahun,Q3
+638,49,Tidak,Riset & Pengembangan,Research Director,5,Ya,Cerai,Jarang,19502,31,0,3,3,1,18,0,>10 tahun,Q4 (tertinggi)
+639,24,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2725,6,1,4,3,2,23,0,6-10 tahun,Q1 (terendah)
+641,26,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6272,5,1,2,4,2,28,0,3-5 tahun,Q3
+643,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2127,1,0,2,3,1,17,0,1 tahun,Q1 (terendah)
+644,50,Tidak,SDM,Manager,5,Tidak,Menikah,Sering,18200,32,10,2,3,1,3,0,>10 tahun,Q4 (tertinggi)
+645,25,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2096,7,0,3,3,0,13,0,6-10 tahun,Q1 (terendah)
+647,24,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Sering,2886,6,1,3,3,1,7,1,6-10 tahun,Q1 (terendah)
+648,30,Ya,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2033,1,0,1,4,1,12,1,1 tahun,Q1 (terendah)
+649,34,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3622,6,1,4,3,1,1,0,6-10 tahun,Q2
+650,31,Ya,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,4233,3,1,1,1,0,13,1,3-5 tahun,Q2
+652,35,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,3681,3,0,4,3,0,25,0,3-5 tahun,Q2
+653,31,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,5460,7,5,4,4,2,6,0,6-10 tahun,Q3
+655,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2187,5,0,3,2,2,6,0,3-5 tahun,Q1 (terendah)
+656,37,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,9602,3,1,3,2,1,2,0,3-5 tahun,Q4 (tertinggi)
+657,20,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2836,1,0,2,4,0,1,0,1 tahun,Q1 (terendah)
+659,42,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,4089,10,2,4,3,2,2,0,6-10 tahun,Q2
+661,43,Tidak,Riset & Pengembangan,Research Director,4,Ya,Cerai,Jarang,16627,1,0,4,2,1,6,0,1 tahun,Q4 (tertinggi)
+662,38,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2619,0,0,1,2,0,1,0,<1 tahun,Q1 (terendah)
+663,43,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Cerai,Sering,5679,8,4,3,3,1,9,0,6-10 tahun,Q3
+664,48,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Jarang,15402,3,0,1,1,1,1,0,3-5 tahun,Q4 (tertinggi)
+665,44,Tidak,SDM,Human Resources,2,Tidak,Lajang,Jarang,5985,2,0,3,4,0,1,0,2 tahun,Q3
+666,34,Tidak,Penjualan,Sales Representative,1,Ya,Cerai,Jarang,2579,8,0,3,3,2,14,0,6-10 tahun,Q1 (terendah)
+667,27,Ya,Penjualan,Sales Representative,1,Tidak,Cerai,Jarang,3041,4,0,1,3,1,2,1,3-5 tahun,Q2
+669,21,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,3447,3,1,3,3,0,22,0,3-5 tahun,Q2
+671,44,Tidak,Riset & Pengembangan,Manager,5,Ya,Menikah,Jarang,19513,2,0,4,4,1,3,0,2 tahun,Q4 (tertinggi)
+675,22,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2773,2,2,3,3,0,6,0,2 tahun,Q1 (terendah)
+677,33,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,7104,5,1,3,3,0,8,0,3-5 tahun,Q3
+679,32,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Jarang,6322,6,0,4,2,1,9,0,6-10 tahun,Q3
+680,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,2083,1,0,3,3,1,3,0,1 tahun,Q1 (terendah)
+682,53,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,8381,14,8,1,4,0,1,0,>10 tahun,Q4 (tertinggi)
+683,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2691,10,8,4,2,1,1,0,6-10 tahun,Q1 (terendah)
+684,45,Ya,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4286,1,0,1,3,2,26,1,1 tahun,Q2
+686,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2659,3,0,4,3,1,6,0,3-5 tahun,Q1 (terendah)
+689,37,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Jarang,9434,10,7,3,3,1,3,0,6-10 tahun,Q4 (tertinggi)
+690,29,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5561,6,1,3,2,1,3,0,6-10 tahun,Q3
+691,35,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,6646,17,11,4,3,0,6,0,>10 tahun,Q3
+692,33,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Sering,7725,13,4,4,1,1,6,0,>10 tahun,Q3
+698,54,Tidak,SDM,Human Resources,3,Tidak,Menikah,Jarang,10725,9,7,2,4,1,19,0,6-10 tahun,Q4 (tertinggi)
+699,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Cerai,Jarang,8847,3,0,2,3,1,9,0,3-5 tahun,Q4 (tertinggi)
+700,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2045,4,1,4,3,0,3,0,3-5 tahun,Q1 (terendah)
+701,20,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,1009,1,1,3,3,0,10,1,1 tahun,Q1 (terendah)
+702,33,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,3348,10,9,1,3,0,3,1,6-10 tahun,Q2
+704,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Tidak pernah,1281,1,0,3,3,2,3,0,1 tahun,Q1 (terendah)
+705,23,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2819,3,0,1,4,1,4,0,3-5 tahun,Q1 (terendah)
+707,25,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4851,3,1,2,3,1,8,0,3-5 tahun,Q2
+709,38,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4028,7,0,4,3,0,7,0,6-10 tahun,Q2
+710,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,2720,10,2,4,3,1,1,0,6-10 tahun,Q1 (terendah)
+712,48,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,8120,2,2,2,3,0,2,0,2 tahun,Q3
+714,27,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Sering,4647,6,0,4,3,2,3,0,6-10 tahun,Q2
+715,37,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,4680,1,0,4,3,0,10,0,1 tahun,Q2
+716,50,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,3221,20,3,3,3,3,28,0,>10 tahun,Q2
+717,34,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,8621,8,7,2,4,0,9,0,6-10 tahun,Q4 (tertinggi)
+720,24,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4577,2,2,3,3,0,3,1,2 tahun,Q2
+721,39,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,4553,20,11,3,3,0,2,0,>10 tahun,Q2
+722,32,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5396,10,0,4,2,0,10,0,6-10 tahun,Q3
+723,50,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Sering,6796,4,1,3,3,1,8,1,3-5 tahun,Q3
+724,38,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,7625,9,1,4,2,0,1,0,6-10 tahun,Q3
+725,27,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Jarang,7412,9,0,1,3,0,1,0,6-10 tahun,Q3
+727,32,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Lajang,Jarang,11159,7,7,4,3,0,3,0,6-10 tahun,Q4 (tertinggi)
+728,47,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4960,7,1,1,3,0,14,0,6-10 tahun,Q3
+729,40,Tidak,Penjualan,Sales Executive,3,Ya,Menikah,Sering,10475,18,1,1,3,1,5,0,>10 tahun,Q4 (tertinggi)
+730,53,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,14814,5,1,3,3,0,7,0,3-5 tahun,Q4 (tertinggi)
+731,41,Tidak,SDM,Manager,5,Tidak,Cerai,Jarang,19141,21,12,4,2,3,10,0,>10 tahun,Q4 (tertinggi)
+732,60,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5405,2,2,1,3,0,16,0,2 tahun,Q3
+733,27,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Sering,8793,9,1,1,2,2,10,0,6-10 tahun,Q4 (tertinggi)
+734,41,Tidak,SDM,Manager,5,Tidak,Menikah,Jarang,19189,22,2,3,3,1,1,0,>10 tahun,Q4 (tertinggi)
+738,50,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,3875,2,2,2,3,1,8,0,2 tahun,Q2
+741,28,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2216,7,3,2,3,0,1,1,6-10 tahun,Q1 (terendah)
+742,36,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Tidak pernah,11713,8,0,1,3,1,8,0,6-10 tahun,Q4 (tertinggi)
+743,38,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Lajang,Jarang,7861,1,0,3,4,0,1,0,1 tahun,Q3
+744,44,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,3708,5,1,3,3,0,24,0,3-5 tahun,Q2
+746,47,Tidak,Penjualan,Sales Executive,4,Ya,Cerai,Sering,13770,22,11,3,2,2,3,0,>10 tahun,Q4 (tertinggi)
+747,30,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,5304,8,7,4,2,1,27,0,6-10 tahun,Q3
+749,29,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2642,1,0,3,3,0,10,0,1 tahun,Q1 (terendah)
+752,42,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Sering,2759,2,2,3,3,0,19,1,2 tahun,Q1 (terendah)
+754,43,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,6804,2,2,4,3,1,15,0,2 tahun,Q3
+757,34,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6142,5,4,3,3,0,8,0,3-5 tahun,Q3
+758,23,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2500,4,0,1,4,1,9,0,3-5 tahun,Q1 (terendah)
+760,39,Tidak,SDM,Human Resources,2,Tidak,Menikah,Jarang,6389,8,3,2,1,1,3,0,6-10 tahun,Q3
+762,56,Tidak,Riset & Pengembangan,Healthcare Representative,4,Tidak,Menikah,Jarang,11103,10,1,4,2,0,9,0,6-10 tahun,Q4 (tertinggi)
+763,40,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2342,4,2,4,2,0,2,0,3-5 tahun,Q1 (terendah)
+764,27,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6811,7,0,1,1,0,7,0,6-10 tahun,Q3
+766,29,Tidak,Penjualan,Sales Representative,1,Tidak,Cerai,Jarang,2297,2,2,2,3,2,10,0,2 tahun,Q1 (terendah)
+769,53,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,2450,2,2,4,3,0,6,0,2 tahun,Q1 (terendah)
+771,35,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Tidak pernah,5093,1,0,1,4,1,2,0,1 tahun,Q3
+772,32,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Sering,5309,10,4,4,3,2,24,0,6-10 tahun,Q3
+773,38,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3057,1,0,3,1,1,2,0,1 tahun,Q2
+775,34,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,5121,0,0,1,3,1,8,0,<1 tahun,Q3
+776,52,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,16856,34,1,1,4,0,3,0,>10 tahun,Q4 (tertinggi)
+780,33,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2686,10,7,4,2,0,1,1,6-10 tahun,Q1 (terendah)
+781,25,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6180,6,1,4,2,0,26,0,6-10 tahun,Q3
+783,45,Tidak,Penjualan,Sales Representative,2,Tidak,Lajang,Jarang,6632,8,3,3,3,0,2,0,6-10 tahun,Q3
+784,23,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3505,2,0,3,3,0,10,0,2 tahun,Q2
+785,47,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Sering,6397,5,1,3,3,0,27,1,3-5 tahun,Q3
+786,34,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6274,6,1,4,3,0,2,0,6-10 tahun,Q3
+787,55,Ya,Riset & Pengembangan,Manager,5,Ya,Menikah,Jarang,19859,5,1,1,3,1,2,1,3-5 tahun,Q4 (tertinggi)
+789,36,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Tidak pernah,7587,10,0,1,3,0,8,0,6-10 tahun,Q3
+791,52,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Tidak pernah,4258,4,1,4,3,1,19,0,3-5 tahun,Q2
+792,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Sering,4364,2,2,4,3,1,1,0,2 tahun,Q2
+793,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,4335,8,1,3,2,1,27,0,6-10 tahun,Q2
+796,26,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5326,4,1,1,2,0,8,1,3-5 tahun,Q3
+797,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3280,4,1,4,3,0,1,0,3-5 tahun,Q2
+799,54,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Cerai,Jarang,5485,5,1,1,3,2,19,0,3-5 tahun,Q3
+800,27,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4342,4,1,4,3,1,8,0,3-5 tahun,Q2
+802,37,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Jarang,2782,5,4,1,2,2,10,0,3-5 tahun,Q1 (terendah)
+803,38,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Sering,5980,15,4,1,3,0,2,0,>10 tahun,Q3
+804,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,4381,6,1,1,3,0,2,0,6-10 tahun,Q2
+805,35,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2572,3,0,4,2,1,8,0,3-5 tahun,Q1 (terendah)
+806,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3833,2,0,3,3,2,1,0,2 tahun,Q2
+807,40,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Sering,4244,8,3,2,3,1,2,0,6-10 tahun,Q2
+808,34,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6500,3,1,1,3,1,8,0,3-5 tahun,Q3
+809,42,Tidak,Riset & Pengembangan,Manager,5,Tidak,Cerai,Sering,18430,24,14,4,2,1,8,0,>10 tahun,Q4 (tertinggi)
+811,23,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,1601,0,0,1,3,2,6,1,<1 tahun,Q1 (terendah)
+812,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Tidak pernah,2694,1,0,2,3,3,9,0,1 tahun,Q1 (terendah)
+813,52,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,3149,5,1,3,3,1,11,0,3-5 tahun,Q2
+815,50,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,17639,4,0,3,3,0,2,0,3-5 tahun,Q4 (tertinggi)
+816,29,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2319,1,0,1,3,1,1,1,1 tahun,Q1 (terendah)
+817,33,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,11691,13,3,3,4,0,7,0,>10 tahun,Q4 (tertinggi)
+819,33,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5324,3,0,1,3,0,16,1,3-5 tahun,Q3
+820,47,Tidak,Riset & Pengembangan,Manager,4,Ya,Menikah,Jarang,16752,26,3,4,2,1,2,0,>10 tahun,Q4 (tertinggi)
+823,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5228,9,0,2,3,1,1,0,6-10 tahun,Q3
+824,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2700,10,0,3,3,1,23,0,6-10 tahun,Q1 (terendah)
+825,58,Ya,Riset & Pengembangan,Research Director,5,Ya,Lajang,Jarang,19246,31,13,2,3,0,2,1,>10 tahun,Q4 (tertinggi)
+826,35,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2506,2,2,3,3,0,1,0,2 tahun,Q1 (terendah)
+827,42,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,6062,4,0,4,3,1,1,0,3-5 tahun,Q3
+828,28,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,4382,2,2,3,2,0,2,1,2 tahun,Q2
+829,36,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2143,5,0,2,3,1,13,0,3-5 tahun,Q1 (terendah)
+830,32,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6162,14,6,3,3,1,4,0,>10 tahun,Q3
+832,40,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Sering,5094,1,0,3,3,0,16,0,1 tahun,Q3
+833,30,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Jarang,6877,0,0,4,2,0,2,0,<1 tahun,Q3
+834,45,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2274,1,0,3,3,0,2,0,1 tahun,Q1 (terendah)
+836,42,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4434,9,7,2,2,1,29,0,6-10 tahun,Q2
+837,38,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Sering,6288,4,1,1,2,1,12,0,3-5 tahun,Q3
+838,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Sering,2553,5,1,4,3,0,16,0,3-5 tahun,Q1 (terendah)
+840,49,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7654,9,7,4,4,2,11,1,6-10 tahun,Q3
+842,55,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5160,9,7,4,2,0,2,1,6-10 tahun,Q3
+843,43,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,17159,4,1,1,3,1,14,0,3-5 tahun,Q4 (tertinggi)
+844,27,Tidak,Riset & Pengembangan,Research Director,3,Ya,Cerai,Jarang,12808,9,0,4,3,1,5,0,6-10 tahun,Q4 (tertinggi)
+845,35,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,10221,8,1,3,4,0,7,0,6-10 tahun,Q4 (tertinggi)
+846,28,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4779,8,7,2,3,0,2,0,6-10 tahun,Q2
+847,34,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,3737,3,0,4,1,1,3,0,3-5 tahun,Q2
+848,26,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Sering,2366,8,1,3,3,1,5,1,6-10 tahun,Q1 (terendah)
+850,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Tidak pernah,1706,0,0,4,2,3,3,0,<1 tahun,Q1 (terendah)
+851,51,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,16307,20,4,3,2,1,26,0,>10 tahun,Q4 (tertinggi)
+852,44,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,5933,5,2,2,2,0,4,0,3-5 tahun,Q3
+854,25,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3424,4,0,1,2,0,2,0,3-5 tahun,Q2
+855,33,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,4037,9,0,1,3,1,1,0,6-10 tahun,Q2
+856,35,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2559,6,1,1,2,0,27,0,6-10 tahun,Q1 (terendah)
+857,36,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,6201,18,4,4,2,1,1,0,>10 tahun,Q3
+859,32,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,4403,5,0,4,2,1,13,0,3-5 tahun,Q2
+861,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,3761,5,0,4,2,1,5,0,3-5 tahun,Q2
+862,53,Tidak,Penjualan,Sales Executive,3,Ya,Menikah,Jarang,10934,5,0,4,3,1,7,0,3-5 tahun,Q4 (tertinggi)
+864,45,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,10761,5,0,1,3,1,9,0,3-5 tahun,Q4 (tertinggi)
+865,32,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,5175,5,1,3,2,1,8,0,3-5 tahun,Q3
+867,52,Tidak,Riset & Pengembangan,Manufacturing Director,4,Tidak,Menikah,Sering,13826,9,0,4,3,0,25,0,6-10 tahun,Q4 (tertinggi)
+868,37,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,6334,1,0,3,3,2,16,0,1 tahun,Q3
+869,28,Tidak,SDM,Human Resources,1,Tidak,Cerai,Jarang,4936,5,0,4,3,1,8,0,3-5 tahun,Q3
+872,22,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4775,2,2,4,1,2,1,0,2 tahun,Q2
+874,44,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2818,3,0,4,2,1,8,0,3-5 tahun,Q1 (terendah)
+875,42,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,2515,2,2,4,3,0,2,0,2 tahun,Q1 (terendah)
+878,36,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2342,5,0,1,3,0,8,0,3-5 tahun,Q1 (terendah)
+879,25,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4194,5,0,1,3,0,3,0,3-5 tahun,Q2
+880,35,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Menikah,Jarang,10685,17,5,3,3,1,9,0,>10 tahun,Q4 (tertinggi)
+881,35,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Sering,2022,10,7,2,2,1,25,1,6-10 tahun,Q1 (terendah)
+882,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Tidak pernah,2314,3,0,4,3,1,1,0,3-5 tahun,Q1 (terendah)
+885,25,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4256,5,0,1,4,0,4,0,3-5 tahun,Q2
+887,49,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3580,4,0,1,3,1,1,0,3-5 tahun,Q2
+888,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Tidak pernah,3162,5,3,4,2,0,4,0,3-5 tahun,Q2
+889,32,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,6524,10,5,2,3,1,5,0,6-10 tahun,Q3
+893,38,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2899,2,1,2,3,1,9,0,2 tahun,Q1 (terendah)
+894,42,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Jarang,5231,5,1,4,2,1,3,0,3-5 tahun,Q3
+895,31,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2356,6,0,4,3,1,11,0,6-10 tahun,Q1 (terendah)
+896,29,Ya,Penjualan,Sales Representative,1,Ya,Cerai,Jarang,2800,3,0,3,3,3,1,1,3-5 tahun,Q1 (terendah)
+897,53,Tidak,Penjualan,Sales Executive,4,Tidak,Menikah,Jarang,11836,2,2,4,3,1,8,0,2 tahun,Q4 (tertinggi)
+899,35,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Jarang,10903,13,4,2,3,0,25,0,>10 tahun,Q4 (tertinggi)
+900,37,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2973,5,0,4,3,1,21,0,3-5 tahun,Q2
+901,53,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Lajang,Jarang,14275,12,3,4,3,0,23,0,>10 tahun,Q4 (tertinggi)
+902,43,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Sering,5562,5,2,4,2,1,1,0,3-5 tahun,Q3
+903,47,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4537,7,7,4,3,1,2,0,6-10 tahun,Q2
+904,37,Tidak,Penjualan,Sales Executive,3,Ya,Lajang,Tidak pernah,7642,10,0,2,3,0,19,0,6-10 tahun,Q3
+905,50,Tidak,Riset & Pengembangan,Manager,4,Tidak,Cerai,Tidak pernah,17924,31,14,1,3,1,2,0,>10 tahun,Q4 (tertinggi)
+909,39,Tidak,SDM,Human Resources,2,Tidak,Menikah,Jarang,5204,5,0,4,3,2,2,0,3-5 tahun,Q3
+910,33,Tidak,SDM,Human Resources,1,Ya,Cerai,Jarang,2277,4,0,2,4,1,3,0,3-5 tahun,Q1 (terendah)
+911,32,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,2795,1,0,4,1,0,25,1,1 tahun,Q1 (terendah)
+912,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2532,4,0,4,3,3,7,0,3-5 tahun,Q1 (terendah)
+913,44,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2559,8,7,1,3,0,9,0,6-10 tahun,Q1 (terendah)
+916,28,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4908,4,0,4,3,0,5,0,3-5 tahun,Q2
+918,58,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Sering,2380,1,0,4,2,1,2,1,1 tahun,Q1 (terendah)
+920,43,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4765,1,0,2,4,1,8,0,1 tahun,Q2
+922,20,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2044,2,0,3,2,0,2,1,2 tahun,Q1 (terendah)
+923,21,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2693,1,0,4,2,0,18,1,1 tahun,Q1 (terendah)
+924,36,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,6586,16,4,4,2,1,14,0,>10 tahun,Q3
+925,47,Tidak,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,3294,3,1,4,2,0,2,0,3-5 tahun,Q2
+926,22,Ya,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,4171,3,0,3,4,1,3,1,3-5 tahun,Q2
+927,41,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,2778,7,1,4,2,1,2,1,6-10 tahun,Q1 (terendah)
+930,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2377,2,2,3,3,1,9,0,2 tahun,Q1 (terendah)
+932,39,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2404,2,2,1,1,0,6,1,2 tahun,Q1 (terendah)
+933,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2318,1,0,3,3,0,4,0,1 tahun,Q1 (terendah)
+934,34,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2008,1,1,2,3,2,10,0,1 tahun,Q1 (terendah)
+936,42,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6244,5,0,3,3,0,14,0,3-5 tahun,Q3
+939,33,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2799,3,0,1,3,0,1,0,3-5 tahun,Q1 (terendah)
+940,58,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Cerai,Jarang,10552,6,0,2,3,1,5,0,6-10 tahun,Q4 (tertinggi)
+941,31,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2329,7,5,3,4,0,7,0,6-10 tahun,Q1 (terendah)
+942,35,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,4014,10,0,4,1,1,21,0,6-10 tahun,Q2
+944,49,Tidak,Riset & Pengembangan,Laboratory Technician,3,Tidak,Menikah,Jarang,7403,26,1,2,2,1,8,0,>10 tahun,Q3
+945,48,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2259,0,0,3,2,2,20,0,<1 tahun,Q1 (terendah)
+947,31,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,6932,9,0,3,2,1,20,0,6-10 tahun,Q3
+949,36,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,4678,6,0,4,3,0,7,0,6-10 tahun,Q2
+950,38,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,13582,15,5,1,3,1,1,0,>10 tahun,Q4 (tertinggi)
+951,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Tidak pernah,2332,3,0,2,3,0,1,0,3-5 tahun,Q1 (terendah)
+952,25,Ya,Penjualan,Sales Representative,1,Ya,Menikah,Jarang,2413,1,0,2,3,3,19,1,1 tahun,Q1 (terendah)
+954,40,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,9705,1,0,2,2,1,10,0,1 tahun,Q4 (tertinggi)
+956,26,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,4294,7,0,1,3,0,1,0,6-10 tahun,Q2
+957,41,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,4721,18,2,1,3,0,6,0,>10 tahun,Q2
+958,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2519,11,3,3,3,0,2,0,>10 tahun,Q1 (terendah)
+959,19,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,2121,1,0,2,4,0,21,1,1 tahun,Q1 (terendah)
+960,20,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2973,1,0,1,3,0,4,1,1 tahun,Q2
+961,31,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,5855,9,8,4,1,2,12,0,6-10 tahun,Q3
+964,40,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Sering,3617,1,0,2,3,1,9,0,1 tahun,Q2
+966,32,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6725,8,6,1,4,1,3,0,6-10 tahun,Q3
+967,36,Ya,Penjualan,Sales Executive,3,Ya,Menikah,Jarang,10325,16,3,4,3,1,3,1,>10 tahun,Q4 (tertinggi)
+969,33,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6949,5,1,4,3,0,1,0,3-5 tahun,Q3
+970,37,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10609,14,11,3,1,0,1,1,>10 tahun,Q4 (tertinggi)
+972,45,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Tidak pernah,4447,9,0,2,2,0,4,0,6-10 tahun,Q2
+974,29,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2157,3,0,4,3,1,20,0,3-5 tahun,Q1 (terendah)
+975,35,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4601,5,1,3,3,0,18,0,3-5 tahun,Q2
+976,52,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Jarang,17099,9,7,4,2,1,1,0,6-10 tahun,Q4 (tertinggi)
+977,58,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2479,1,0,3,3,0,2,1,1 tahun,Q1 (terendah)
+981,53,Tidak,Penjualan,Manager,4,Tidak,Cerai,Jarang,14852,17,15,3,4,1,2,0,>10 tahun,Q4 (tertinggi)
+982,30,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,7264,8,7,3,4,1,8,0,6-10 tahun,Q3
+983,38,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Tidak pernah,5666,5,1,4,3,0,10,0,3-5 tahun,Q3
+984,35,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,7823,10,0,4,3,1,3,0,6-10 tahun,Q3
+985,39,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,7880,8,0,3,3,0,2,0,6-10 tahun,Q3
+986,40,Ya,Penjualan,Sales Executive,4,Ya,Lajang,Tidak pernah,13194,1,0,2,2,0,24,1,1 tahun,Q4 (tertinggi)
+987,47,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Cerai,Sering,5067,19,2,3,4,0,16,0,>10 tahun,Q3
+990,36,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Tidak pernah,5079,7,0,4,3,2,8,0,6-10 tahun,Q3
+991,31,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Tidak pernah,2321,3,1,1,3,0,9,1,3-5 tahun,Q1 (terendah)
+992,33,Tidak,Penjualan,Manager,4,Tidak,Lajang,Tidak pernah,17444,10,6,3,3,0,17,0,6-10 tahun,Q4 (tertinggi)
+994,29,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2404,0,0,1,3,0,10,1,<1 tahun,Q1 (terendah)
+995,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3452,3,0,4,3,0,13,0,3-5 tahun,Q2
+996,45,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2270,5,0,4,3,2,1,0,3-5 tahun,Q1 (terendah)
+997,50,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Cerai,Jarang,17399,5,1,4,2,1,1,0,3-5 tahun,Q4 (tertinggi)
+998,33,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Sering,5488,6,1,2,3,1,1,0,6-10 tahun,Q3
+999,41,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Cerai,Sering,19419,18,0,3,4,1,9,0,>10 tahun,Q4 (tertinggi)
+1001,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2811,2,2,2,3,1,16,0,2 tahun,Q1 (terendah)
+1002,45,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Tidak pernah,3633,9,0,1,3,1,23,0,6-10 tahun,Q2
+1003,47,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,4163,9,0,4,3,0,4,0,6-10 tahun,Q2
+1004,30,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2132,5,0,3,3,0,22,1,3-5 tahun,Q1 (terendah)
+1005,50,Tidak,Riset & Pengembangan,Manufacturing Director,4,Ya,Menikah,Jarang,13973,12,1,3,3,1,24,0,>10 tahun,Q4 (tertinggi)
+1006,38,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,2684,2,0,3,2,1,10,0,2 tahun,Q1 (terendah)
+1007,46,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Jarang,10845,8,0,3,3,1,7,0,6-10 tahun,Q4 (tertinggi)
+1009,24,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4377,4,3,3,3,2,17,0,3-5 tahun,Q2
+1010,35,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,3743,4,0,2,1,1,14,1,3-5 tahun,Q2
+1011,31,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Sering,4148,4,0,1,3,1,1,0,3-5 tahun,Q2
+1012,18,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Tidak pernah,1051,0,0,4,3,0,5,0,<1 tahun,Q1 (terendah)
+1013,54,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Jarang,10739,10,0,3,3,1,17,0,6-10 tahun,Q4 (tertinggi)
+1014,35,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Cerai,Jarang,10388,16,10,3,2,1,25,0,>10 tahun,Q4 (tertinggi)
+1015,30,Tidak,Riset & Pengembangan,Research Director,3,Ya,Menikah,Jarang,11416,8,1,1,2,3,8,0,6-10 tahun,Q4 (tertinggi)
+1016,20,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2600,1,0,1,3,0,11,1,1 tahun,Q1 (terendah)
+1017,30,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2422,3,1,2,3,0,5,1,3-5 tahun,Q1 (terendah)
+1018,26,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5472,8,1,4,3,0,2,0,6-10 tahun,Q3
+1019,22,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2451,4,1,1,2,1,8,0,3-5 tahun,Q1 (terendah)
+1022,48,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,4240,2,2,3,3,0,6,0,2 tahun,Q2
+1024,48,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,10999,15,4,3,3,0,4,0,>10 tahun,Q4 (tertinggi)
+1025,41,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,5003,2,2,3,3,0,7,0,2 tahun,Q3
+1026,39,Tidak,Riset & Pengembangan,Manufacturing Director,4,Tidak,Menikah,Jarang,12742,21,11,4,3,1,1,0,>10 tahun,Q4 (tertinggi)
+1027,27,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4227,3,2,4,3,1,2,0,3-5 tahun,Q2
+1028,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,3917,3,1,4,2,1,10,0,3-5 tahun,Q2
+1029,42,Tidak,Penjualan,Manager,5,Tidak,Menikah,Jarang,18303,1,0,3,4,0,5,0,1 tahun,Q4 (tertinggi)
+1030,50,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2380,1,0,4,3,0,9,0,1 tahun,Q1 (terendah)
+1032,59,Tidak,Riset & Pengembangan,Manufacturing Director,4,Ya,Lajang,Jarang,13726,5,4,4,3,0,2,0,3-5 tahun,Q4 (tertinggi)
+1033,37,Ya,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,4777,1,0,2,1,0,11,1,1 tahun,Q2
+1034,55,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Sering,6385,8,6,2,3,2,18,0,6-10 tahun,Q3
+1035,41,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Cerai,Tidak pernah,19973,21,5,3,3,2,7,0,>10 tahun,Q4 (tertinggi)
+1036,38,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,6861,1,0,4,3,0,3,0,1 tahun,Q3
+1037,26,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,4969,2,2,1,3,0,29,1,2 tahun,Q3
+1038,52,Ya,Penjualan,Manager,5,Tidak,Menikah,Jarang,19845,32,6,4,3,1,2,1,>10 tahun,Q4 (tertinggi)
+1039,44,Tidak,Penjualan,Sales Executive,4,Ya,Menikah,Jarang,13320,12,11,4,3,1,28,0,>10 tahun,Q4 (tertinggi)
+1040,50,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,6347,18,0,3,3,1,1,0,>10 tahun,Q3
+1042,36,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2743,17,15,1,3,0,16,1,>10 tahun,Q1 (terendah)
+1043,39,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Lajang,Sering,10880,21,2,1,3,0,22,0,>10 tahun,Q4 (tertinggi)
+1044,33,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Tidak pernah,2342,2,2,4,2,0,8,0,2 tahun,Q1 (terendah)
+1045,45,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,17650,9,1,4,4,1,11,0,6-10 tahun,Q4 (tertinggi)
+1046,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,4025,8,7,3,3,0,29,0,6-10 tahun,Q2
+1047,34,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,9725,15,0,4,2,1,1,0,>10 tahun,Q4 (tertinggi)
+1048,59,Tidak,Penjualan,Manager,3,Ya,Menikah,Jarang,11904,6,0,4,1,1,1,0,6-10 tahun,Q4 (tertinggi)
+1049,45,Tidak,SDM,Human Resources,1,Tidak,Lajang,Jarang,2177,6,0,2,3,0,24,0,6-10 tahun,Q1 (terendah)
+1050,53,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,7525,15,6,2,3,1,2,0,>10 tahun,Q3
+1052,36,Ya,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,4834,1,0,3,2,1,15,1,1 tahun,Q2
+1053,26,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Sering,2042,3,1,1,3,1,2,1,3-5 tahun,Q1 (terendah)
+1055,34,Tidak,Penjualan,Sales Representative,1,Ya,Menikah,Jarang,2220,1,0,3,3,1,10,0,1 tahun,Q1 (terendah)
+1056,28,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,1052,1,0,2,3,0,10,0,1 tahun,Q1 (terendah)
+1060,38,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,2821,2,2,3,3,1,3,0,2 tahun,Q1 (terendah)
+1061,50,Tidak,Riset & Pengembangan,Research Director,5,Ya,Menikah,Jarang,19237,8,7,3,2,1,2,0,6-10 tahun,Q4 (tertinggi)
+1062,37,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,4107,4,0,2,2,0,3,0,3-5 tahun,Q2
+1066,40,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,8396,7,7,1,2,1,26,0,6-10 tahun,Q4 (tertinggi)
+1068,26,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,2007,5,1,3,3,2,1,0,3-5 tahun,Q1 (terendah)
+1069,46,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Cerai,Jarang,19627,2,2,4,3,2,1,0,2 tahun,Q4 (tertinggi)
+1070,54,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10686,9,7,3,3,1,2,0,6-10 tahun,Q4 (tertinggi)
+1071,56,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,2942,5,0,3,3,1,9,0,3-5 tahun,Q2
+1073,36,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,8858,14,7,4,2,0,12,0,>10 tahun,Q4 (tertinggi)
+1074,55,Tidak,Riset & Pengembangan,Manager,4,Tidak,Lajang,Tidak pernah,16756,9,6,1,4,0,2,0,6-10 tahun,Q4 (tertinggi)
+1076,43,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,10798,1,0,4,3,1,25,0,1 tahun,Q4 (tertinggi)
+1077,20,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Sering,2323,2,0,4,3,0,9,1,2 tahun,Q1 (terendah)
+1079,21,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,1416,1,1,1,2,0,10,1,1 tahun,Q1 (terendah)
+1080,46,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Jarang,4615,16,1,1,3,3,8,0,>10 tahun,Q2
+1081,51,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2461,10,2,3,4,3,4,1,6-10 tahun,Q1 (terendah)
+1082,28,Ya,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Tidak pernah,8722,10,1,1,2,0,24,1,6-10 tahun,Q4 (tertinggi)
+1083,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3955,5,1,1,3,2,1,0,3-5 tahun,Q2
+1084,30,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,9957,6,0,1,2,1,20,0,6-10 tahun,Q4 (tertinggi)
+1085,41,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3376,10,0,3,3,0,7,0,6-10 tahun,Q2
+1088,38,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,8823,19,1,3,2,1,17,0,>10 tahun,Q4 (tertinggi)
+1092,40,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,10322,11,11,4,3,1,20,0,>10 tahun,Q4 (tertinggi)
+1094,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Tidak pernah,4621,3,1,3,3,3,8,0,3-5 tahun,Q2
+1096,55,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Sering,10976,3,1,2,3,1,2,0,3-5 tahun,Q4 (tertinggi)
+1097,28,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,3660,8,1,3,4,0,10,0,6-10 tahun,Q2
+1098,44,Ya,SDM,Human Resources,3,Tidak,Menikah,Jarang,10482,20,3,1,3,1,1,1,>10 tahun,Q4 (tertinggi)
+1099,33,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,7119,3,1,4,3,1,5,0,3-5 tahun,Q3
+1100,35,Ya,Penjualan,Sales Executive,3,Ya,Lajang,Jarang,9582,8,4,1,3,0,4,1,6-10 tahun,Q4 (tertinggi)
+1101,33,Ya,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Sering,4508,13,3,3,3,0,29,1,>10 tahun,Q2
+1102,28,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2207,4,2,3,2,1,15,0,3-5 tahun,Q1 (terendah)
+1103,34,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Sering,7756,6,0,4,2,0,3,0,6-10 tahun,Q3
+1105,37,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,6694,1,0,4,3,3,10,0,1 tahun,Q3
+1106,25,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,3691,7,5,4,4,1,4,1,6-10 tahun,Q2
+1107,26,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2377,1,0,3,2,1,21,1,1 tahun,Q1 (terendah)
+1108,33,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2313,2,2,2,3,0,25,1,2 tahun,Q1 (terendah)
+1109,42,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Jarang,17665,22,13,1,3,1,2,0,>10 tahun,Q4 (tertinggi)
+1111,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Sering,2596,1,0,2,3,2,1,1,1 tahun,Q1 (terendah)
+1113,50,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Sering,4728,0,0,3,3,0,1,1,<1 tahun,Q2
+1114,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4302,3,0,2,3,1,7,0,3-5 tahun,Q2
+1115,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Tidak pernah,2979,0,0,4,3,3,3,0,<1 tahun,Q2
+1116,48,Tidak,Riset & Pengembangan,Manager,4,Tidak,Lajang,Tidak pernah,16885,5,2,4,2,0,1,0,3-5 tahun,Q4 (tertinggi)
+1117,45,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,5593,15,4,3,3,1,9,0,>10 tahun,Q3
+1118,52,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,10445,8,4,2,3,0,7,0,6-10 tahun,Q4 (tertinggi)
+1119,38,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,8740,8,2,3,3,2,10,0,6-10 tahun,Q4 (tertinggi)
+1120,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2514,7,1,4,3,1,28,0,6-10 tahun,Q1 (terendah)
+1121,28,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Jarang,7655,9,1,2,2,3,3,0,6-10 tahun,Q3
+1124,46,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,17465,12,4,3,3,1,3,0,>10 tahun,Q4 (tertinggi)
+1125,38,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,7351,1,0,2,3,0,2,0,1 tahun,Q3
+1126,43,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Sering,10820,8,0,1,3,1,27,0,6-10 tahun,Q4 (tertinggi)
+1127,39,Ya,Riset & Pengembangan,Healthcare Representative,4,Tidak,Cerai,Sering,12169,18,11,4,3,3,2,1,>10 tahun,Q4 (tertinggi)
+1128,40,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Lajang,Jarang,19626,20,4,3,4,0,14,0,>10 tahun,Q4 (tertinggi)
+1131,21,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2070,2,2,2,4,0,1,0,2 tahun,Q1 (terendah)
+1132,39,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Tidak pernah,6782,5,0,2,2,0,9,0,3-5 tahun,Q3
+1133,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Tidak pernah,7779,11,0,4,3,0,18,0,>10 tahun,Q3
+1135,31,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2791,2,2,4,3,1,20,0,2 tahun,Q1 (terendah)
+1136,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3201,5,0,2,1,0,2,0,3-5 tahun,Q2
+1137,35,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Sering,4968,5,0,4,3,1,11,0,3-5 tahun,Q3
+1138,49,Tidak,Penjualan,Sales Executive,4,Tidak,Menikah,Jarang,13120,9,2,2,3,1,8,0,6-10 tahun,Q4 (tertinggi)
+1140,34,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Sering,4033,3,0,3,2,0,2,0,3-5 tahun,Q2
+1143,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,3291,7,1,2,2,2,10,0,6-10 tahun,Q2
+1148,42,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,4272,1,0,4,3,0,29,0,1 tahun,Q2
+1150,29,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,5056,10,1,4,2,1,8,0,6-10 tahun,Q3
+1152,38,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2844,7,5,3,4,1,1,0,6-10 tahun,Q1 (terendah)
+1154,28,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Sering,2703,3,0,3,3,1,6,0,3-5 tahun,Q1 (terendah)
+1156,18,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,1904,0,0,3,3,0,8,1,<1 tahun,Q1 (terendah)
+1157,33,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,8224,5,0,1,3,0,9,1,3-5 tahun,Q3
+1158,41,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,4766,1,0,4,3,1,12,0,1 tahun,Q2
+1160,31,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2610,2,2,3,2,1,15,1,2 tahun,Q1 (terendah)
+1161,37,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,5731,6,1,4,3,2,25,0,6-10 tahun,Q3
+1162,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2539,4,2,3,3,1,6,0,3-5 tahun,Q1 (terendah)
+1163,34,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5714,6,1,3,2,0,9,0,6-10 tahun,Q3
+1164,35,Tidak,SDM,Human Resources,1,Tidak,Lajang,Jarang,4323,5,1,3,1,0,8,0,3-5 tahun,Q2
+1165,29,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7336,11,3,1,1,1,23,1,>10 tahun,Q3
+1166,40,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Lajang,Sering,13499,18,2,3,2,0,9,0,>10 tahun,Q4 (tertinggi)
+1167,42,Ya,Penjualan,Sales Executive,4,Ya,Lajang,Sering,13758,21,13,1,2,0,12,1,>10 tahun,Q4 (tertinggi)
+1171,42,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5155,6,1,1,4,0,4,0,6-10 tahun,Q3
+1172,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2258,8,1,3,3,1,1,0,6-10 tahun,Q1 (terendah)
+1173,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3597,4,1,2,3,0,24,0,3-5 tahun,Q2
+1175,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2515,1,0,4,2,0,12,1,1 tahun,Q1 (terendah)
+1177,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,4420,8,0,4,3,1,3,0,6-10 tahun,Q2
+1179,30,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6578,10,1,3,3,1,10,0,6-10 tahun,Q3
+1180,40,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Sering,4422,1,0,4,1,1,26,0,1 tahun,Q2
+1182,35,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Jarang,10274,7,6,2,4,1,2,0,6-10 tahun,Q4 (tertinggi)
+1184,34,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Sering,5343,13,4,1,3,0,1,0,>10 tahun,Q3
+1185,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2376,2,2,4,4,1,4,0,2 tahun,Q1 (terendah)
+1188,43,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5346,4,1,3,2,0,9,1,3-5 tahun,Q3
+1190,32,Tidak,Penjualan,Sales Representative,1,Tidak,Cerai,Tidak pernah,2827,1,0,1,3,3,2,0,1 tahun,Q1 (terendah)
+1191,56,Tidak,Riset & Pengembangan,Manager,5,Tidak,Cerai,Jarang,19943,5,4,1,3,1,4,0,3-5 tahun,Q4 (tertinggi)
+1192,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3131,10,0,4,3,1,6,0,6-10 tahun,Q2
+1193,19,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2552,1,0,1,3,0,9,0,1 tahun,Q1 (terendah)
+1195,45,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,4477,3,0,3,2,1,7,0,3-5 tahun,Q2
+1196,37,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6474,14,3,4,2,1,1,0,>10 tahun,Q3
+1198,20,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3033,2,1,3,2,0,3,0,2 tahun,Q2
+1200,44,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2936,6,0,3,3,0,10,1,6-10 tahun,Q2
+1201,53,Tidak,Riset & Pengembangan,Manager,5,Tidak,Cerai,Jarang,18606,7,4,3,3,1,7,0,6-10 tahun,Q4 (tertinggi)
+1202,29,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2168,5,1,4,2,1,15,0,3-5 tahun,Q1 (terendah)
+1203,22,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Sering,2853,0,0,4,3,1,3,1,<1 tahun,Q1 (terendah)
+1204,46,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,17048,26,15,1,3,0,2,0,>10 tahun,Q4 (tertinggi)
+1206,44,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Tidak pernah,2290,0,0,3,3,0,17,0,<1 tahun,Q1 (terendah)
+1207,33,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,3600,5,1,3,3,1,2,0,3-5 tahun,Q2
+1210,41,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Tidak pernah,2107,1,0,1,1,1,5,1,1 tahun,Q1 (terendah)
+1211,30,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,4115,4,0,1,3,3,29,0,3-5 tahun,Q2
+1212,40,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4327,0,0,2,3,3,2,0,<1 tahun,Q2
+1215,50,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Sering,17856,2,2,1,3,1,2,0,2 tahun,Q4 (tertinggi)
+1216,28,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3196,6,3,1,3,3,19,0,6-10 tahun,Q2
+1217,46,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,19081,4,0,2,3,1,15,0,3-5 tahun,Q4 (tertinggi)
+1218,35,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,8966,7,1,1,3,3,17,0,6-10 tahun,Q4 (tertinggi)
+1219,24,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2210,1,0,2,1,1,17,1,1 tahun,Q1 (terendah)
+1220,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4539,10,0,3,2,1,25,0,6-10 tahun,Q2
+1221,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2741,7,1,3,3,1,6,0,6-10 tahun,Q1 (terendah)
+1224,30,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,3491,10,8,3,2,3,7,0,6-10 tahun,Q2
+1225,44,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,4541,20,13,4,3,0,29,0,>10 tahun,Q2
+1226,20,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2678,2,2,4,3,0,21,0,2 tahun,Q1 (terendah)
+1228,46,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,7379,6,1,4,2,1,2,0,6-10 tahun,Q3
+1231,42,Tidak,SDM,Human Resources,2,Tidak,Menikah,Tidak pernah,6272,4,0,1,4,1,2,0,3-5 tahun,Q3
+1233,60,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5220,11,1,4,3,1,7,0,>10 tahun,Q3
+1234,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2743,2,2,2,3,1,13,0,2 tahun,Q1 (terendah)
+1235,32,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Lajang,Sering,4998,8,0,3,3,0,2,0,6-10 tahun,Q3
+1237,36,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Cerai,Jarang,10252,7,7,1,3,1,1,0,6-10 tahun,Q4 (tertinggi)
+1238,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2781,14,4,4,3,1,9,0,>10 tahun,Q1 (terendah)
+1239,40,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,6852,5,1,2,4,1,10,0,3-5 tahun,Q3
+1240,25,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4950,4,1,4,3,0,10,0,3-5 tahun,Q3
+1241,30,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3579,11,5,2,3,1,1,0,>10 tahun,Q2
+1242,42,Tidak,Riset & Pengembangan,Research Director,3,Ya,Menikah,Sering,13191,1,0,1,3,0,26,0,1 tahun,Q4 (tertinggi)
+1243,35,Tidak,Penjualan,Sales Executive,3,Ya,Menikah,Tidak pernah,10377,13,4,4,2,1,8,0,>10 tahun,Q4 (tertinggi)
+1244,27,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2235,9,6,1,2,2,14,0,6-10 tahun,Q1 (terendah)
+1245,54,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Sering,10502,5,1,3,1,1,1,0,3-5 tahun,Q4 (tertinggi)
+1246,44,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2011,10,7,4,3,1,2,0,6-10 tahun,Q1 (terendah)
+1248,19,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Tidak pernah,1859,1,0,2,4,0,10,1,1 tahun,Q1 (terendah)
+1249,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,3760,3,1,4,3,3,1,0,3-5 tahun,Q2
+1250,54,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,17779,10,0,4,3,0,3,0,6-10 tahun,Q4 (tertinggi)
+1251,31,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,6833,6,0,1,2,0,11,0,6-10 tahun,Q3
+1252,31,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6812,10,1,1,3,0,24,0,6-10 tahun,Q3
+1254,59,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5171,6,0,4,3,0,3,0,6-10 tahun,Q3
+1255,43,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,19740,8,0,4,3,1,3,0,6-10 tahun,Q4 (tertinggi)
+1256,49,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,18711,1,0,3,4,1,4,0,1 tahun,Q4 (tertinggi)
+1257,36,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,3692,11,0,2,2,0,3,0,>10 tahun,Q2
+1258,48,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2559,1,0,2,2,0,2,0,1 tahun,Q1 (terendah)
+1259,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2517,5,0,3,3,3,4,0,3-5 tahun,Q1 (terendah)
+1260,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Cerai,Jarang,6623,6,1,4,3,2,7,0,6-10 tahun,Q3
+1263,48,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Lajang,Jarang,18265,1,0,4,4,0,1,0,1 tahun,Q4 (tertinggi)
+1264,29,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Cerai,Jarang,16124,7,1,4,2,2,1,0,6-10 tahun,Q4 (tertinggi)
+1265,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2585,1,0,3,2,0,20,0,1 tahun,Q1 (terendah)
+1267,44,Tidak,Penjualan,Manager,5,Tidak,Menikah,Jarang,18213,22,3,2,3,1,5,0,>10 tahun,Q4 (tertinggi)
+1268,33,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,8380,9,0,3,3,2,10,0,6-10 tahun,Q4 (tertinggi)
+1269,19,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2994,1,0,4,3,0,25,0,1 tahun,Q2
+1270,23,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,1223,1,0,3,3,1,1,0,1 tahun,Q1 (terendah)
+1273,25,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Sering,1118,1,1,4,3,0,24,1,1 tahun,Q1 (terendah)
+1275,26,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2875,8,2,4,2,0,4,0,6-10 tahun,Q1 (terendah)
+1277,45,Ya,Penjualan,Manager,5,Ya,Lajang,Jarang,18824,24,1,2,3,0,2,1,>10 tahun,Q4 (tertinggi)
+1278,55,Tidak,Riset & Pengembangan,Healthcare Representative,4,Ya,Cerai,Tidak pernah,13577,33,15,2,3,1,8,0,>10 tahun,Q4 (tertinggi)
+1279,21,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2625,2,2,3,1,0,10,1,2 tahun,Q1 (terendah)
+1280,46,Tidak,Penjualan,Manager,5,Tidak,Menikah,Jarang,18789,11,0,2,3,1,4,0,>10 tahun,Q4 (tertinggi)
+1281,34,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,4538,3,0,1,3,0,2,0,3-5 tahun,Q2
+1282,51,Tidak,Penjualan,Manager,5,Ya,Cerai,Sering,19847,29,11,2,2,1,9,0,>10 tahun,Q4 (tertinggi)
+1283,59,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,10512,9,5,4,2,0,18,0,6-10 tahun,Q4 (tertinggi)
+1285,34,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Sering,4444,11,5,2,4,2,19,0,>10 tahun,Q2
+1286,28,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Sering,2154,4,0,3,2,0,1,0,3-5 tahun,Q1 (terendah)
+1288,44,Tidak,Riset & Pengembangan,Manager,5,Tidak,Cerai,Jarang,19190,25,14,1,2,2,4,0,>10 tahun,Q4 (tertinggi)
+1289,34,Tidak,SDM,Human Resources,2,Tidak,Menikah,Sering,4490,10,1,2,4,2,11,0,6-10 tahun,Q2
+1291,35,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,3506,3,2,3,3,0,6,0,3-5 tahun,Q2
+1292,42,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Jarang,2372,1,0,2,3,0,7,0,1 tahun,Q1 (terendah)
+1293,43,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,10231,21,15,4,4,0,4,0,>10 tahun,Q4 (tertinggi)
+1294,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Jarang,5410,16,5,2,3,0,2,0,>10 tahun,Q3
+1295,44,Ya,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,7978,10,0,4,3,1,15,1,6-10 tahun,Q3
+1296,28,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Sering,3867,2,2,4,3,1,2,0,2 tahun,Q2
+1297,51,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2838,7,7,3,2,0,6,0,6-10 tahun,Q1 (terendah)
+1298,30,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Tidak pernah,4695,8,1,3,3,0,9,0,6-10 tahun,Q2
+1299,29,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,3339,7,7,3,3,2,7,1,6-10 tahun,Q2
+1301,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2080,3,1,1,2,0,1,0,3-5 tahun,Q1 (terendah)
+1303,25,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2096,2,2,2,2,0,1,0,2 tahun,Q1 (terendah)
+1304,32,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6209,10,0,4,4,2,8,0,6-10 tahun,Q3
+1306,45,Tidak,Riset & Pengembangan,Manager,5,Tidak,Lajang,Sering,18061,0,0,2,3,0,25,0,<1 tahun,Q4 (tertinggi)
+1307,39,Tidak,Riset & Pengembangan,Manager,4,Ya,Cerai,Jarang,17123,19,15,2,3,2,13,0,>10 tahun,Q4 (tertinggi)
+1308,58,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2372,2,2,3,3,2,23,0,2 tahun,Q1 (terendah)
+1309,32,Ya,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,4883,10,1,3,3,1,7,1,6-10 tahun,Q2
+1310,39,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3904,5,0,1,3,0,23,1,3-5 tahun,Q2
+1311,30,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,4627,9,6,4,3,1,6,0,6-10 tahun,Q2
+1312,36,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,7094,7,1,3,3,0,10,0,6-10 tahun,Q3
+1314,46,Tidak,SDM,Human Resources,1,Tidak,Lajang,Jarang,3423,7,5,1,4,0,1,0,6-10 tahun,Q2
+1315,28,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Tidak pernah,6674,9,7,4,3,3,1,0,6-10 tahun,Q3
+1317,50,Tidak,Riset & Pengembangan,Research Director,4,Ya,Menikah,Jarang,16880,3,1,1,3,0,28,0,3-5 tahun,Q4 (tertinggi)
+1318,40,Ya,Penjualan,Sales Executive,3,Ya,Lajang,Jarang,9094,5,1,2,3,0,25,1,3-5 tahun,Q4 (tertinggi)
+1319,52,Ya,Penjualan,Sales Executive,3,Ya,Lajang,Jarang,8446,8,7,2,2,0,5,1,6-10 tahun,Q4 (tertinggi)
+1321,30,Tidak,Riset & Pengembangan,Manager,3,Ya,Menikah,Jarang,11916,9,0,1,3,2,17,0,6-10 tahun,Q4 (tertinggi)
+1322,39,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,4534,8,1,3,3,0,18,0,6-10 tahun,Q2
+1324,31,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Tidak pernah,9852,10,9,3,2,1,2,0,6-10 tahun,Q4 (tertinggi)
+1329,41,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,6151,19,11,2,3,0,10,0,>10 tahun,Q3
+1331,31,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Sering,2302,3,2,2,4,0,1,1,3-5 tahun,Q1 (terendah)
+1333,44,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2362,3,1,1,4,0,3,1,3-5 tahun,Q1 (terendah)
+1334,42,Tidak,Riset & Pengembangan,Manager,4,Ya,Menikah,Tidak pernah,17861,20,2,3,2,0,2,0,>10 tahun,Q4 (tertinggi)
+1336,55,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19187,19,9,3,3,1,2,0,>10 tahun,Q4 (tertinggi)
+1338,56,Tidak,SDM,Manager,5,Tidak,Lajang,Jarang,19717,7,7,2,3,0,8,0,6-10 tahun,Q4 (tertinggi)
+1340,40,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Tidak pernah,3544,4,0,3,3,1,16,0,3-5 tahun,Q2
+1344,34,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,8500,9,1,4,2,1,9,0,6-10 tahun,Q4 (tertinggi)
+1346,40,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,4661,9,8,4,3,0,2,0,6-10 tahun,Q2
+1349,41,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Sering,4103,9,1,1,3,1,1,0,6-10 tahun,Q2
+1350,35,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Lajang,Sering,4249,9,1,3,3,0,4,0,6-10 tahun,Q2
+1352,51,Tidak,SDM,Manager,4,Ya,Cerai,Jarang,14026,33,0,2,3,1,5,0,>10 tahun,Q4 (tertinggi)
+1355,38,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,6893,7,1,1,3,1,2,0,6-10 tahun,Q3
+1356,34,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6125,10,9,1,4,0,15,0,6-10 tahun,Q3
+1358,25,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3669,3,1,4,2,3,19,0,3-5 tahun,Q2
+1360,58,Ya,Riset & Pengembangan,Manufacturing Director,3,Ya,Menikah,Jarang,10008,10,5,1,2,0,7,1,6-10 tahun,Q4 (tertinggi)
+1361,40,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2387,4,0,2,3,1,1,0,3-5 tahun,Q1 (terendah)
+1362,36,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4639,15,6,1,2,1,7,0,>10 tahun,Q2
+1363,48,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,7898,10,0,4,3,0,4,0,6-10 tahun,Q3
+1364,27,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2534,1,0,4,3,1,11,0,1 tahun,Q1 (terendah)
+1367,51,Tidak,Riset & Pengembangan,Manufacturing Director,4,Tidak,Lajang,Jarang,13142,5,0,2,2,0,11,0,3-5 tahun,Q4 (tertinggi)
+1368,18,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,1611,0,0,4,4,0,1,0,<1 tahun,Q1 (terendah)
+1369,35,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,5363,9,0,4,3,1,1,0,6-10 tahun,Q3
+1371,27,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,5071,6,0,4,3,0,2,0,6-10 tahun,Q3
+1372,55,Ya,Penjualan,Sales Executive,4,Ya,Lajang,Jarang,13695,19,3,3,2,0,13,1,>10 tahun,Q4 (tertinggi)
+1373,56,Tidak,Riset & Pengembangan,Manufacturing Director,4,Ya,Menikah,Jarang,13402,19,15,2,3,1,23,0,>10 tahun,Q4 (tertinggi)
+1374,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Tidak pernah,2029,5,0,3,3,3,26,0,3-5 tahun,Q1 (terendah)
+1375,40,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,6377,12,11,3,3,3,2,0,>10 tahun,Q3
+1377,34,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,5429,8,7,3,3,2,29,0,6-10 tahun,Q3
+1379,31,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Sering,2785,1,0,4,4,0,2,1,1 tahun,Q1 (terendah)
+1380,35,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Sering,4614,4,3,3,2,1,18,1,3-5 tahun,Q2
+1382,38,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,2610,4,0,3,3,3,7,0,3-5 tahun,Q1 (terendah)
+1383,34,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6687,14,4,4,4,0,2,0,>10 tahun,Q3
+1387,28,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4724,5,0,1,3,1,26,0,3-5 tahun,Q2
+1389,31,Ya,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,6179,10,6,3,2,2,22,1,6-10 tahun,Q3
+1390,39,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,6120,5,1,4,4,2,21,0,3-5 tahun,Q3
+1391,51,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,10596,4,3,2,3,0,2,0,3-5 tahun,Q4 (tertinggi)
+1392,41,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Sering,5467,6,3,4,2,2,22,0,6-10 tahun,Q3
+1394,37,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2996,6,1,3,3,0,4,0,6-10 tahun,Q2
+1395,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,9998,5,1,4,4,0,5,0,3-5 tahun,Q4 (tertinggi)
+1396,32,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4078,3,1,2,2,3,2,0,3-5 tahun,Q2
+1397,39,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Tidak pernah,10920,6,0,3,3,1,25,0,6-10 tahun,Q4 (tertinggi)
+1399,25,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6232,3,1,3,2,0,18,0,3-5 tahun,Q3
+1401,52,Tidak,Riset & Pengembangan,Manufacturing Director,4,Ya,Menikah,Sering,13247,5,0,3,2,1,28,0,3-5 tahun,Q4 (tertinggi)
+1402,43,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Lajang,Jarang,4081,20,1,3,1,0,6,0,>10 tahun,Q2
+1403,27,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,5769,6,4,4,3,0,10,0,6-10 tahun,Q3
+1405,27,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2394,8,7,3,3,0,17,1,6-10 tahun,Q1 (terendah)
+1407,26,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3904,4,1,4,3,0,2,0,3-5 tahun,Q2
+1408,42,Tidak,SDM,Manager,4,Tidak,Menikah,Jarang,16799,20,0,1,3,1,10,0,>10 tahun,Q4 (tertinggi)
+1409,52,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2950,5,0,1,1,0,8,0,3-5 tahun,Q2
+1411,37,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3629,3,0,3,3,0,11,0,3-5 tahun,Q2
+1412,35,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Sering,9362,2,2,4,3,0,18,0,2 tahun,Q4 (tertinggi)
+1415,25,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3229,3,0,4,2,1,1,0,3-5 tahun,Q2
+1417,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3578,7,0,1,3,0,7,0,6-10 tahun,Q2
+1419,29,Tidak,SDM,Human Resources,3,Tidak,Lajang,Jarang,7988,10,0,1,2,0,17,0,6-10 tahun,Q3
+1420,49,Ya,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Sering,4284,4,1,1,3,0,28,1,3-5 tahun,Q2
+1421,29,Ya,Riset & Pengembangan,Healthcare Representative,3,Ya,Lajang,Sering,7553,8,7,4,3,0,14,1,6-10 tahun,Q3
+1422,54,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Lajang,Jarang,17328,20,12,4,2,0,1,0,>10 tahun,Q4 (tertinggi)
+1423,58,Tidak,Riset & Pengembangan,Research Director,5,Ya,Menikah,Jarang,19701,9,1,1,3,1,1,0,6-10 tahun,Q4 (tertinggi)
+1424,55,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Cerai,Jarang,14732,7,0,4,4,2,1,0,6-10 tahun,Q4 (tertinggi)
+1425,36,Tidak,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,9278,5,0,2,3,0,3,0,3-5 tahun,Q4 (tertinggi)
+1427,31,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Sering,1359,1,0,3,3,0,1,1,1 tahun,Q1 (terendah)
+1428,30,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,4779,3,0,1,3,2,7,0,3-5 tahun,Q2
+1430,31,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Lajang,Jarang,16422,3,1,2,4,0,8,0,3-5 tahun,Q4 (tertinggi)
+1431,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Sering,2996,4,1,1,3,2,1,0,3-5 tahun,Q2
+1433,31,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,1261,1,0,2,4,0,8,1,1 tahun,Q1 (terendah)
+1434,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2099,5,1,1,4,0,11,0,3-5 tahun,Q1 (terendah)
+1435,36,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,5810,10,1,4,2,0,4,0,6-10 tahun,Q3
+1436,36,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5647,3,0,1,2,2,16,0,3-5 tahun,Q3
+1438,47,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3420,6,1,4,2,1,1,0,6-10 tahun,Q2
+1439,25,Ya,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,4400,3,2,1,3,0,9,1,3-5 tahun,Q2
+1440,37,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,3500,6,1,3,1,0,5,0,6-10 tahun,Q2
+1441,56,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2066,3,1,1,4,1,1,0,3-5 tahun,Q1 (terendah)
+1443,47,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,17169,20,5,3,4,2,2,0,>10 tahun,Q4 (tertinggi)
+1445,24,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4162,5,0,3,3,2,4,0,3-5 tahun,Q2
+1446,32,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,9204,4,0,4,2,1,7,0,3-5 tahun,Q4 (tertinggi)
+1447,34,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3294,5,0,2,2,1,1,0,3-5 tahun,Q2
+1448,41,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2127,4,0,3,2,0,5,0,3-5 tahun,Q1 (terendah)
+1449,40,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Tidak pernah,3975,8,0,3,4,2,9,0,6-10 tahun,Q2
+1453,31,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,10793,13,9,4,3,1,8,0,>10 tahun,Q4 (tertinggi)
+1457,46,Ya,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,10096,7,4,4,4,1,9,1,6-10 tahun,Q4 (tertinggi)
+1458,39,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Tidak pernah,3646,1,0,1,4,0,2,1,1 tahun,Q2
+1459,31,Ya,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Sering,7446,10,4,2,3,0,1,1,6-10 tahun,Q3
+1460,45,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Cerai,Jarang,10851,7,0,1,3,1,20,0,6-10 tahun,Q4 (tertinggi)
+1461,31,Tidak,SDM,Human Resources,1,Tidak,Lajang,Jarang,2109,3,0,2,3,0,8,0,3-5 tahun,Q1 (terendah)
+1464,31,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Sering,3722,2,2,4,1,1,2,1,2 tahun,Q2
+1465,45,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Menikah,Jarang,9380,3,1,4,4,2,29,0,3-5 tahun,Q4 (tertinggi)
+1466,48,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,5486,2,2,1,3,3,7,0,2 tahun,Q3
+1467,34,Ya,SDM,Human Resources,1,Tidak,Menikah,Jarang,2742,2,2,3,3,0,9,1,2 tahun,Q1 (terendah)
+1468,40,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Cerai,Tidak pernah,13757,9,4,2,3,1,8,0,6-10 tahun,Q4 (tertinggi)
+1469,28,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,8463,5,1,1,3,0,5,0,3-5 tahun,Q4 (tertinggi)
+1471,44,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,3162,5,0,3,3,0,5,0,3-5 tahun,Q2
+1472,53,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Lajang,Jarang,16598,9,8,2,2,0,2,0,6-10 tahun,Q4 (tertinggi)
+1473,49,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,6651,3,1,3,2,1,5,0,3-5 tahun,Q3
+1474,40,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2345,3,1,3,4,1,2,0,3-5 tahun,Q1 (terendah)
+1475,44,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3420,5,1,2,2,0,20,0,3-5 tahun,Q2
+1477,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4373,4,0,1,3,2,7,0,3-5 tahun,Q2
+1478,34,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4759,13,3,1,3,0,3,0,>10 tahun,Q2
+1479,30,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5301,2,2,3,2,2,16,0,2 tahun,Q3
+1480,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,3673,12,5,4,3,0,9,0,>10 tahun,Q2
+1481,44,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,4768,1,0,3,2,1,1,0,1 tahun,Q2
+1482,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Tidak pernah,1274,1,0,3,2,2,7,0,1 tahun,Q1 (terendah)
+1483,57,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,4900,12,2,3,2,1,1,0,>10 tahun,Q2
+1484,49,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,10466,8,0,2,3,2,7,0,6-10 tahun,Q4 (tertinggi)
+1485,34,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Cerai,Sering,17007,14,6,1,2,2,15,0,>10 tahun,Q4 (tertinggi)
+1486,28,Ya,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,2909,3,1,3,4,1,1,1,3-5 tahun,Q1 (terendah)
+1487,29,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,5765,5,0,2,1,0,13,1,3-5 tahun,Q3
+1489,34,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,4599,15,10,2,4,0,24,1,>10 tahun,Q2
+1492,35,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2404,1,0,3,3,1,7,0,1 tahun,Q1 (terendah)
+1494,24,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Sering,3172,0,0,1,2,0,9,1,<1 tahun,Q2
+1495,24,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Tidak pernah,2033,1,0,2,3,1,13,0,1 tahun,Q1 (terendah)
+1496,44,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Lajang,Sering,10209,2,2,3,2,0,2,0,2 tahun,Q4 (tertinggi)
+1497,29,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,8620,10,0,3,3,2,19,0,6-10 tahun,Q4 (tertinggi)
+1499,30,Tidak,SDM,Human Resources,1,Tidak,Cerai,Jarang,2064,5,1,3,4,1,1,0,3-5 tahun,Q1 (terendah)
+1501,55,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,4035,3,1,3,3,0,4,0,3-5 tahun,Q2
+1502,33,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3838,5,0,2,3,0,4,0,3-5 tahun,Q2
+1503,47,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,4591,5,1,3,2,1,14,0,3-5 tahun,Q2
+1504,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2561,0,0,1,2,0,2,1,<1 tahun,Q1 (terendah)
+1506,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,1563,1,0,3,1,1,1,0,1 tahun,Q1 (terendah)
+1507,28,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,4898,4,1,1,3,0,7,0,3-5 tahun,Q2
+1509,49,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,4789,3,1,1,3,1,3,0,3-5 tahun,Q2
+1513,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,3180,3,0,2,3,3,2,0,3-5 tahun,Q2
+1514,28,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6549,8,1,2,2,2,29,0,6-10 tahun,Q3
+1515,33,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Lajang,Jarang,6388,0,0,3,3,0,8,0,<1 tahun,Q3
+1516,32,Tidak,Riset & Pengembangan,Manager,3,Tidak,Lajang,Jarang,11244,5,0,4,4,0,10,0,3-5 tahun,Q4 (tertinggi)
+1520,54,Tidak,Riset & Pengembangan,Manager,4,Tidak,Cerai,Sering,16032,14,1,4,3,1,11,0,>10 tahun,Q4 (tertinggi)
+1522,29,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2362,9,0,1,1,0,1,1,6-10 tahun,Q1 (terendah)
+1523,44,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,16328,20,14,1,4,1,28,0,>10 tahun,Q4 (tertinggi)
+1525,39,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,8376,2,2,2,3,0,6,0,2 tahun,Q3
+1527,46,Tidak,Penjualan,Manager,4,Tidak,Menikah,Jarang,16606,13,5,2,4,1,3,0,>10 tahun,Q4 (tertinggi)
+1529,35,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,8606,11,3,2,1,0,16,0,>10 tahun,Q4 (tertinggi)
+1533,23,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Lajang,Jarang,2272,4,1,3,3,0,20,0,3-5 tahun,Q1 (terendah)
+1534,40,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2018,5,1,1,1,0,9,1,3-5 tahun,Q1 (terendah)
+1535,34,Tidak,Penjualan,Sales Executive,3,Ya,Menikah,Jarang,7083,10,8,3,3,0,1,0,6-10 tahun,Q3
+1537,31,Ya,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Sering,4084,7,7,3,1,0,3,1,6-10 tahun,Q2
+1539,50,Tidak,Riset & Pengembangan,Research Director,4,Ya,Lajang,Sering,14411,32,13,4,3,0,22,0,>10 tahun,Q4 (tertinggi)
+1541,34,Tidak,Penjualan,Sales Representative,1,Ya,Menikah,Jarang,2308,11,5,3,3,1,7,0,>10 tahun,Q1 (terendah)
+1542,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,4841,1,0,2,3,1,2,0,1 tahun,Q2
+1543,37,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,4285,10,3,4,3,0,13,0,6-10 tahun,Q2
+1544,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,9715,7,0,1,3,1,8,0,6-10 tahun,Q4 (tertinggi)
+1545,33,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,4320,5,0,2,3,0,25,0,3-5 tahun,Q2
+1546,45,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2132,5,0,4,3,1,28,0,3-5 tahun,Q1 (terendah)
+1547,42,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Menikah,Sering,10124,20,13,4,1,1,2,0,>10 tahun,Q4 (tertinggi)
+1548,40,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5473,8,7,1,4,0,9,0,6-10 tahun,Q3
+1549,33,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Jarang,5207,15,5,3,3,1,28,0,>10 tahun,Q3
+1550,40,Tidak,SDM,Manager,4,Ya,Lajang,Jarang,16437,21,7,4,3,0,6,0,>10 tahun,Q4 (tertinggi)
+1551,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2296,1,0,1,3,3,21,0,1 tahun,Q1 (terendah)
+1552,40,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Cerai,Tidak pernah,4069,2,2,4,3,0,8,0,2 tahun,Q2
+1553,45,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,7441,10,7,2,3,3,1,0,6-10 tahun,Q3
+1554,35,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2430,5,4,3,3,2,28,0,3-5 tahun,Q1 (terendah)
+1555,32,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,5878,7,2,2,3,1,5,0,6-10 tahun,Q3
+1556,36,Tidak,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,2644,3,1,4,2,0,2,0,3-5 tahun,Q1 (terendah)
+1557,48,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,6439,8,7,3,3,1,16,0,6-10 tahun,Q3
+1558,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2451,1,0,3,2,2,9,0,1 tahun,Q1 (terendah)
+1560,33,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6392,2,2,1,1,1,8,0,2 tahun,Q3
+1562,30,Ya,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,9714,10,6,1,3,1,1,1,6-10 tahun,Q4 (tertinggi)
+1563,38,Tidak,SDM,Human Resources,2,Tidak,Menikah,Sering,6077,6,1,3,3,0,10,0,6-10 tahun,Q3
+1564,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2450,3,1,1,3,0,1,0,3-5 tahun,Q1 (terendah)
+1568,30,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,9250,4,1,2,3,1,29,0,3-5 tahun,Q4 (tertinggi)
+1569,35,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,2074,1,0,1,3,1,2,1,1 tahun,Q1 (terendah)
+1572,53,Ya,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Jarang,10169,33,1,4,3,1,2,1,>10 tahun,Q4 (tertinggi)
+1573,38,Ya,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,4855,5,1,2,3,2,2,1,3-5 tahun,Q2
+1574,32,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Tidak pernah,4087,6,1,1,2,1,1,0,6-10 tahun,Q2
+1576,48,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2367,8,7,1,2,1,15,0,6-10 tahun,Q1 (terendah)
+1577,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2972,1,0,4,1,0,7,0,1 tahun,Q2
+1578,55,Tidak,Penjualan,Manager,5,Tidak,Menikah,Jarang,19586,36,2,4,3,1,26,0,>10 tahun,Q4 (tertinggi)
+1580,34,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,5484,2,2,4,2,1,1,0,2 tahun,Q3
+1581,26,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2061,1,0,4,3,0,3,0,1 tahun,Q1 (terendah)
+1582,38,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,9924,9,7,2,3,1,14,0,6-10 tahun,Q4 (tertinggi)
+1583,38,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4198,3,1,2,4,0,16,0,3-5 tahun,Q2
+1585,36,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6815,1,0,3,3,0,1,0,1 tahun,Q3
+1586,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,4723,10,1,1,3,0,3,0,6-10 tahun,Q2
+1587,35,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Lajang,Jarang,6142,5,0,3,3,0,10,0,3-5 tahun,Q3
+1588,39,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,8237,7,7,3,3,1,6,0,6-10 tahun,Q3
+1590,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Sering,8853,6,1,4,4,1,2,0,6-10 tahun,Q4 (tertinggi)
+1591,50,Tidak,Penjualan,Manager,5,Ya,Menikah,Jarang,19331,1,0,3,3,1,9,0,1 tahun,Q4 (tertinggi)
+1592,23,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2073,2,2,3,3,1,10,0,2 tahun,Q1 (terendah)
+1594,36,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Sering,5562,3,0,1,3,1,6,0,3-5 tahun,Q3
+1595,42,Tidak,Riset & Pengembangan,Manager,5,Tidak,Lajang,Jarang,19613,1,0,4,3,0,9,0,1 tahun,Q4 (tertinggi)
+1596,35,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,3407,10,6,3,2,2,28,0,6-10 tahun,Q2
+1597,34,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Sering,5063,8,7,3,2,1,10,0,6-10 tahun,Q3
+1598,40,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4639,5,1,1,3,1,14,0,3-5 tahun,Q2
+1599,43,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,4876,6,0,2,3,1,27,0,6-10 tahun,Q2
+1601,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2690,1,0,4,2,1,7,0,1 tahun,Q1 (terendah)
+1602,46,Tidak,Penjualan,Manager,4,Tidak,Lajang,Jarang,17567,26,0,1,1,0,1,0,>10 tahun,Q4 (tertinggi)
+1604,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2408,1,0,2,3,3,24,1,1 tahun,Q1 (terendah)
+1605,22,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Tidak pernah,2814,4,1,3,2,0,26,0,3-5 tahun,Q1 (terendah)
+1606,50,Tidak,Riset & Pengembangan,Healthcare Representative,4,Ya,Menikah,Sering,11245,30,12,3,3,1,20,0,>10 tahun,Q4 (tertinggi)
+1607,32,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3312,3,0,4,3,2,5,0,3-5 tahun,Q2
+1608,44,Tidak,Riset & Pengembangan,Research Director,5,Ya,Cerai,Jarang,19049,22,1,4,2,1,7,0,>10 tahun,Q4 (tertinggi)
+1609,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2141,6,1,2,2,1,7,0,6-10 tahun,Q1 (terendah)
+1611,45,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Lajang,Jarang,5769,10,1,1,3,0,5,0,6-10 tahun,Q3
+1612,45,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,4385,10,4,1,3,1,26,0,6-10 tahun,Q2
+1613,31,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,5332,5,0,1,3,0,2,0,3-5 tahun,Q3
+1614,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,4663,3,1,3,3,2,12,0,3-5 tahun,Q2
+1615,34,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Sering,4724,9,7,4,3,1,10,0,6-10 tahun,Q2
+1617,49,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3211,9,1,1,2,1,25,0,6-10 tahun,Q2
+1618,39,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5377,7,7,1,3,3,10,0,6-10 tahun,Q3
+1619,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,4066,7,0,1,3,2,19,0,6-10 tahun,Q2
+1621,35,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,5208,16,1,1,3,0,18,0,>10 tahun,Q3
+1622,28,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,4877,5,0,1,2,1,27,0,3-5 tahun,Q2
+1623,21,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3117,2,2,4,3,0,5,0,2 tahun,Q2
+1624,18,Ya,Penjualan,Sales Representative,1,Ya,Lajang,Sering,1569,0,0,4,4,0,3,1,<1 tahun,Q1 (terendah)
+1625,47,Tidak,SDM,Manager,5,Tidak,Menikah,Jarang,19658,5,1,3,3,1,26,0,3-5 tahun,Q4 (tertinggi)
+1627,39,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,3069,10,0,3,3,1,3,0,6-10 tahun,Q2
+1628,40,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Menikah,Jarang,10435,18,14,3,3,2,15,0,>10 tahun,Q4 (tertinggi)
+1630,35,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Tidak pernah,4148,14,2,3,3,1,8,0,>10 tahun,Q2
+1631,37,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5768,4,0,3,2,3,19,0,3-5 tahun,Q3
+1633,39,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Sering,5042,9,3,3,1,0,4,0,6-10 tahun,Q3
+1635,45,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Jarang,5770,10,3,4,3,2,2,0,6-10 tahun,Q3
+1638,38,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Menikah,Jarang,7756,5,0,3,4,1,2,0,3-5 tahun,Q3
+1639,35,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10306,13,6,1,3,0,10,1,>10 tahun,Q4 (tertinggi)
+1640,37,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3936,8,7,2,1,1,10,0,6-10 tahun,Q2
+1641,40,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Lajang,Jarang,7945,4,3,4,2,0,16,0,3-5 tahun,Q3
+1642,44,Tidak,SDM,Human Resources,2,Ya,Menikah,Sering,5743,10,0,4,3,0,1,0,6-10 tahun,Q3
+1644,48,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Sering,15202,2,2,4,3,1,4,0,2 tahun,Q4 (tertinggi)
+1645,35,Ya,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5440,2,2,4,2,2,15,1,2 tahun,Q3
+1646,24,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,3760,6,1,4,3,0,2,0,6-10 tahun,Q2
+1647,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3517,3,0,3,3,0,8,0,3-5 tahun,Q2
+1648,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Sering,2580,4,1,4,2,0,2,0,3-5 tahun,Q1 (terendah)
+1649,40,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,2166,4,0,1,1,0,7,1,3-5 tahun,Q1 (terendah)
+1650,29,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5869,5,1,3,3,0,10,0,3-5 tahun,Q3
+1651,36,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,8008,3,0,1,3,2,5,0,3-5 tahun,Q3
+1653,25,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Sering,5206,7,0,3,3,2,2,0,6-10 tahun,Q3
+1654,39,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5295,5,1,2,3,0,12,0,3-5 tahun,Q3
+1655,49,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,16413,4,1,2,3,2,22,0,3-5 tahun,Q4 (tertinggi)
+1656,50,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Cerai,Jarang,13269,14,1,1,3,3,17,0,>10 tahun,Q4 (tertinggi)
+1657,20,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2783,2,2,3,3,0,2,0,2 tahun,Q1 (terendah)
+1658,34,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Jarang,5433,11,7,2,3,1,3,0,>10 tahun,Q3
+1659,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2013,4,1,2,3,0,7,0,3-5 tahun,Q1 (terendah)
+1661,49,Tidak,Riset & Pengembangan,Healthcare Representative,4,Ya,Menikah,Jarang,13966,15,2,3,3,1,6,0,>10 tahun,Q4 (tertinggi)
+1662,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Tidak pernah,4374,3,1,3,3,0,1,0,3-5 tahun,Q2
+1664,36,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,6842,5,0,1,3,1,3,0,3-5 tahun,Q3
+1665,54,Tidak,Riset & Pengembangan,Manager,4,Tidak,Menikah,Jarang,17426,10,4,3,3,1,22,0,6-10 tahun,Q4 (tertinggi)
+1666,43,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Menikah,Jarang,17603,14,6,3,3,1,15,0,>10 tahun,Q4 (tertinggi)
+1667,35,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Sering,4581,11,6,4,4,0,12,1,>10 tahun,Q2
+1668,38,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Sering,4735,13,2,4,4,2,1,0,>10 tahun,Q2
+1669,29,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,4187,10,0,2,2,1,5,0,6-10 tahun,Q2
+1670,33,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,5505,6,0,4,3,2,2,0,6-10 tahun,Q3
+1671,32,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Jarang,5470,9,1,2,2,2,2,0,6-10 tahun,Q3
+1673,31,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5476,10,0,4,3,2,5,0,6-10 tahun,Q3
+1674,49,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,2587,2,2,1,2,1,16,0,2 tahun,Q1 (terendah)
+1675,38,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Sering,2440,4,3,2,3,0,2,0,3-5 tahun,Q1 (terendah)
+1676,47,Tidak,Penjualan,Manager,4,Tidak,Cerai,Jarang,15972,3,1,2,3,3,2,0,3-5 tahun,Q4 (tertinggi)
+1677,49,Tidak,Riset & Pengembangan,Manager,4,Tidak,Lajang,Jarang,15379,8,0,3,3,0,1,0,6-10 tahun,Q4 (tertinggi)
+1678,41,Tidak,Penjualan,Sales Executive,3,Ya,Lajang,Jarang,7082,2,0,3,3,0,23,0,2 tahun,Q3
+1680,20,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2728,2,0,1,3,0,9,0,2 tahun,Q1 (terendah)
+1681,33,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Tidak pernah,5368,6,1,4,3,1,16,0,6-10 tahun,Q3
+1682,36,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5347,3,0,3,2,2,26,0,3-5 tahun,Q3
+1683,44,Tidak,SDM,Human Resources,1,Ya,Cerai,Jarang,3195,2,2,4,3,3,1,0,2 tahun,Q2
+1684,23,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Jarang,3989,5,1,3,3,0,8,1,3-5 tahun,Q2
+1687,38,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3306,0,0,3,2,1,4,0,<1 tahun,Q2
+1689,53,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,7005,4,1,4,3,0,24,0,3-5 tahun,Q3
+1691,48,Ya,Penjualan,Sales Representative,1,Ya,Menikah,Sering,2655,9,7,3,3,2,7,1,6-10 tahun,Q1 (terendah)
+1692,32,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,1393,1,0,2,3,0,2,1,1 tahun,Q1 (terendah)
+1693,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Tidak pernah,2570,7,5,4,3,0,7,0,6-10 tahun,Q1 (terendah)
+1694,55,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,3537,4,1,2,3,1,22,0,3-5 tahun,Q2
+1696,34,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,3986,15,4,4,4,1,5,0,>10 tahun,Q2
+1697,60,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Cerai,Jarang,10883,1,0,4,4,1,1,0,1 tahun,Q4 (tertinggi)
+1698,33,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2028,14,2,2,3,3,21,0,>10 tahun,Q1 (terendah)
+1700,37,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Sering,9525,6,1,4,2,2,1,0,6-10 tahun,Q4 (tertinggi)
+1701,34,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2929,10,8,4,3,0,19,0,6-10 tahun,Q2
+1702,23,Ya,Penjualan,Sales Representative,1,Ya,Cerai,Jarang,2275,3,0,4,3,1,7,1,3-5 tahun,Q1 (terendah)
+1703,44,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Menikah,Jarang,7879,8,6,4,3,1,2,0,6-10 tahun,Q3
+1704,35,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,4930,5,1,4,4,0,2,0,3-5 tahun,Q3
+1706,43,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,7847,10,8,4,3,1,2,0,6-10 tahun,Q3
+1707,24,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,4401,5,0,3,3,1,9,0,3-5 tahun,Q2
+1708,41,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,9241,10,8,3,3,0,6,0,6-10 tahun,Q4 (tertinggi)
+1709,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2974,5,1,3,3,1,9,0,3-5 tahun,Q2
+1710,36,Tidak,Penjualan,Sales Representative,2,Tidak,Lajang,Jarang,4502,13,6,4,2,0,2,0,>10 tahun,Q2
+1712,45,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Tidak pernah,10748,23,14,3,2,1,1,0,>10 tahun,Q4 (tertinggi)
+1714,24,Ya,SDM,Human Resources,1,Tidak,Menikah,Jarang,1555,1,0,3,3,1,22,1,1 tahun,Q1 (terendah)
+1716,47,Ya,Penjualan,Sales Executive,4,Tidak,Menikah,Sering,12936,23,14,3,1,0,9,1,>10 tahun,Q4 (tertinggi)
+1718,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2305,3,0,3,4,3,17,0,3-5 tahun,Q1 (terendah)
+1719,45,Tidak,Riset & Pengembangan,Research Director,4,Tidak,Lajang,Jarang,16704,21,8,2,3,0,28,0,>10 tahun,Q4 (tertinggi)
+1720,32,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,3433,5,1,3,2,1,10,0,3-5 tahun,Q2
+1721,31,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3477,5,0,3,4,1,2,0,3-5 tahun,Q2
+1722,41,Tidak,SDM,Human Resources,2,Tidak,Menikah,Tidak pernah,6430,3,1,2,3,1,4,0,3-5 tahun,Q3
+1724,40,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,6516,1,0,1,3,1,8,0,1 tahun,Q3
+1725,24,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,3907,6,1,1,4,3,29,0,6-10 tahun,Q2
+1727,46,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,5562,10,0,2,3,0,13,0,6-10 tahun,Q3
+1728,35,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,6883,7,0,3,3,1,27,0,6-10 tahun,Q3
+1729,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2862,10,0,4,2,1,16,0,6-10 tahun,Q1 (terendah)
+1731,47,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,4978,1,0,2,1,1,2,0,1 tahun,Q3
+1732,46,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,10368,10,0,4,2,1,2,0,6-10 tahun,Q4 (tertinggi)
+1733,36,Ya,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,6134,2,2,1,3,3,13,1,2 tahun,Q3
+1734,32,Ya,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6735,0,0,2,3,0,1,1,<1 tahun,Q3
+1735,23,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3295,3,1,2,1,0,4,0,3-5 tahun,Q2
+1736,31,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Sering,5238,5,1,4,2,0,24,0,3-5 tahun,Q3
+1737,39,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Tidak pernah,6472,9,5,4,3,1,1,0,6-10 tahun,Q3
+1739,32,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,9610,4,0,3,1,1,19,0,3-5 tahun,Q4 (tertinggi)
+1740,40,Tidak,Penjualan,Manager,5,Tidak,Lajang,Jarang,19833,21,12,2,2,0,7,0,>10 tahun,Q4 (tertinggi)
+1744,45,Tidak,SDM,Human Resources,3,Tidak,Menikah,Jarang,9756,5,0,3,4,2,4,0,3-5 tahun,Q4 (tertinggi)
+1745,30,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Sering,4968,9,0,1,3,0,2,0,6-10 tahun,Q3
+1746,24,Tidak,SDM,Human Resources,1,Tidak,Menikah,Sering,2145,2,2,4,3,1,10,0,2 tahun,Q1 (terendah)
+1747,30,Ya,SDM,Human Resources,1,Tidak,Cerai,Sering,2180,4,1,4,2,1,8,1,3-5 tahun,Q1 (terendah)
+1749,31,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,8346,5,0,3,3,1,5,0,3-5 tahun,Q3
+1751,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3445,6,1,4,2,0,8,0,6-10 tahun,Q2
+1752,29,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2760,2,2,2,3,0,9,1,2 tahun,Q1 (terendah)
+1753,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Lajang,Sering,6294,3,0,3,4,0,1,0,3-5 tahun,Q3
+1754,30,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,7140,7,1,1,3,1,15,0,6-10 tahun,Q3
+1755,34,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2932,5,1,4,3,3,2,0,3-5 tahun,Q2
+1756,33,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,5147,11,1,2,2,0,2,0,>10 tahun,Q3
+1757,49,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4507,5,0,4,4,0,11,0,3-5 tahun,Q2
+1758,33,Ya,Penjualan,Sales Executive,3,Ya,Lajang,Jarang,8564,0,0,1,2,0,16,1,<1 tahun,Q4 (tertinggi)
+1760,38,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2468,6,0,2,2,1,2,0,6-10 tahun,Q1 (terendah)
+1761,31,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,8161,1,0,3,3,3,16,1,1 tahun,Q3
+1762,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,2109,1,0,1,3,1,4,0,1 tahun,Q1 (terendah)
+1763,30,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5294,7,1,3,3,1,16,0,6-10 tahun,Q3
+1764,32,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Tidak pernah,2718,7,0,2,3,0,5,0,6-10 tahun,Q1 (terendah)
+1766,38,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,5811,1,1,4,3,1,18,0,1 tahun,Q3
+1767,43,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Sering,2437,1,0,3,3,1,17,1,1 tahun,Q1 (terendah)
+1768,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2766,5,0,2,2,3,12,0,3-5 tahun,Q1 (terendah)
+1770,55,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,19038,1,0,1,3,3,2,0,1 tahun,Q4 (tertinggi)
+1771,33,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Tidak pernah,3055,9,1,2,2,2,4,0,6-10 tahun,Q2
+1772,41,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2289,5,0,1,3,2,9,0,3-5 tahun,Q1 (terendah)
+1774,34,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Tidak pernah,4001,15,0,3,3,1,10,0,>10 tahun,Q2
+1775,53,Tidak,Riset & Pengembangan,Manufacturing Director,4,Ya,Menikah,Tidak pernah,12965,3,0,3,2,3,1,0,3-5 tahun,Q4 (tertinggi)
+1778,43,Tidak,SDM,Human Resources,1,Tidak,Lajang,Jarang,3539,9,1,4,3,0,2,0,6-10 tahun,Q2
+1779,34,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6029,2,2,4,3,0,3,0,2 tahun,Q3
+1780,21,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2679,1,1,2,3,0,7,1,1 tahun,Q1 (terendah)
+1782,38,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3702,5,0,3,3,1,6,0,3-5 tahun,Q2
+1783,22,Ya,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2398,1,0,1,3,0,8,1,1 tahun,Q1 (terendah)
+1784,31,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5468,12,5,4,3,2,29,0,>10 tahun,Q3
+1786,51,Tidak,Riset & Pengembangan,Manager,3,Tidak,Menikah,Jarang,13116,2,2,3,3,0,3,0,2 tahun,Q4 (tertinggi)
+1787,37,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4189,5,0,2,3,2,9,0,3-5 tahun,Q2
+1789,46,Tidak,Riset & Pengembangan,Research Director,5,Ya,Cerai,Jarang,19328,2,2,4,3,1,2,0,2 tahun,Q4 (tertinggi)
+1790,36,Tidak,Riset & Pengembangan,Healthcare Representative,3,Ya,Menikah,Jarang,8321,12,5,1,3,1,10,0,>10 tahun,Q3
+1792,44,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Sering,2342,5,2,2,2,3,1,1,3-5 tahun,Q1 (terendah)
+1794,37,Tidak,SDM,Human Resources,2,Tidak,Cerai,Jarang,4071,10,4,2,2,0,8,0,6-10 tahun,Q2
+1797,35,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,5813,10,7,4,3,0,27,1,6-10 tahun,Q3
+1798,33,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3143,10,7,1,3,1,8,0,6-10 tahun,Q2
+1799,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2044,5,0,4,4,1,1,0,3-5 tahun,Q1 (terendah)
+1800,39,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Lajang,Jarang,13464,4,2,3,3,0,10,0,3-5 tahun,Q4 (tertinggi)
+1801,46,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Tidak pernah,7991,2,2,2,3,0,26,0,2 tahun,Q3
+1802,40,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3377,4,0,1,2,1,2,0,3-5 tahun,Q2
+1803,42,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5538,0,0,1,2,2,13,0,<1 tahun,Q3
+1804,35,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Tidak pernah,5762,7,1,4,3,1,2,0,6-10 tahun,Q3
+1805,38,Tidak,SDM,Human Resources,1,Tidak,Cerai,Tidak pernah,2592,11,3,2,3,3,2,0,>10 tahun,Q1 (terendah)
+1807,34,Ya,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Sering,5346,7,0,1,2,1,9,1,6-10 tahun,Q3
+1809,37,Ya,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,4213,10,0,1,1,0,10,1,6-10 tahun,Q2
+1812,39,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Sering,4127,2,2,4,3,1,20,0,2 tahun,Q2
+1813,43,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Tidak pernah,2438,3,1,3,2,0,9,0,3-5 tahun,Q1 (terendah)
+1814,41,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,6870,3,1,2,1,0,5,0,3-5 tahun,Q3
+1815,41,Tidak,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,10447,22,13,3,4,1,4,0,>10 tahun,Q4 (tertinggi)
+1816,30,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Lajang,Jarang,9667,7,0,3,3,0,10,0,6-10 tahun,Q4 (tertinggi)
+1818,26,Ya,SDM,Human Resources,1,Ya,Menikah,Jarang,2148,5,1,2,3,0,20,1,3-5 tahun,Q1 (terendah)
+1821,46,Ya,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,8926,9,3,2,4,1,21,1,6-10 tahun,Q4 (tertinggi)
+1822,40,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,6513,5,0,4,3,1,1,0,3-5 tahun,Q3
+1823,34,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6799,10,4,3,3,2,8,0,6-10 tahun,Q3
+1824,58,Tidak,Penjualan,Manager,4,Tidak,Cerai,Tidak pernah,16291,16,14,2,2,1,2,0,>10 tahun,Q4 (tertinggi)
+1826,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2705,5,0,3,4,1,23,0,3-5 tahun,Q1 (terendah)
+1827,47,Tidak,Riset & Pengembangan,Manufacturing Director,3,Ya,Cerai,Jarang,10333,22,14,2,3,1,4,0,>10 tahun,Q4 (tertinggi)
+1829,40,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,4448,7,7,1,3,1,12,0,6-10 tahun,Q2
+1830,54,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,6854,7,1,4,2,1,7,0,6-10 tahun,Q3
+1833,31,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Sering,9637,3,2,1,3,2,7,0,3-5 tahun,Q4 (tertinggi)
+1834,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,3591,3,1,1,3,1,1,0,3-5 tahun,Q2
+1835,38,Tidak,Penjualan,Sales Representative,2,Ya,Menikah,Jarang,5405,4,0,4,2,2,2,0,3-5 tahun,Q3
+1836,26,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4684,5,1,4,3,0,10,0,3-5 tahun,Q2
+1837,58,Tidak,Riset & Pengembangan,Research Director,4,Ya,Menikah,Sering,15787,2,2,3,3,0,15,0,2 tahun,Q4 (tertinggi)
+1839,18,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Tidak pernah,1514,0,0,3,1,0,14,0,<1 tahun,Q1 (terendah)
+1842,31,Ya,SDM,Human Resources,1,Tidak,Menikah,Jarang,2956,1,0,1,3,0,18,1,1 tahun,Q2
+1844,29,Ya,SDM,Human Resources,1,Ya,Cerai,Jarang,2335,2,2,1,3,3,13,1,2 tahun,Q1 (terendah)
+1845,45,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,5154,8,5,3,4,2,2,0,6-10 tahun,Q3
+1847,36,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Jarang,6962,1,0,2,3,1,2,0,1 tahun,Q3
+1849,43,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,5675,7,7,4,3,1,2,0,6-10 tahun,Q3
+1850,27,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Lajang,Sering,2379,5,0,4,2,0,5,0,3-5 tahun,Q1 (terendah)
+1852,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,3812,11,3,4,4,0,20,0,>10 tahun,Q2
+1853,32,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Sering,4648,0,0,4,4,0,10,0,<1 tahun,Q2
+1854,42,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Tidak pernah,2936,6,3,3,2,2,10,0,6-10 tahun,Q2
+1856,47,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2105,2,2,3,3,0,9,0,2 tahun,Q1 (terendah)
+1857,46,Tidak,Riset & Pengembangan,Manufacturing Director,3,Tidak,Cerai,Jarang,8578,9,4,4,2,1,2,0,6-10 tahun,Q4 (tertinggi)
+1858,28,Tidak,SDM,Human Resources,1,Tidak,Cerai,Tidak pernah,2706,3,2,4,3,1,1,0,3-5 tahun,Q1 (terendah)
+1859,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Jarang,6384,7,1,3,3,2,29,0,6-10 tahun,Q3
+1860,42,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,3968,0,0,3,3,0,8,0,<1 tahun,Q2
+1862,32,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,9907,2,2,2,2,0,2,1,2 tahun,Q4 (tertinggi)
+1863,46,Tidak,Penjualan,Sales Executive,4,Tidak,Cerai,Jarang,13225,19,2,1,3,1,3,0,>10 tahun,Q4 (tertinggi)
+1864,27,Tidak,Penjualan,Sales Representative,2,Tidak,Menikah,Jarang,3540,9,5,3,3,1,23,0,6-10 tahun,Q2
+1865,29,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2804,1,0,2,3,0,6,0,1 tahun,Q1 (terendah)
+1866,43,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,19392,16,6,3,3,0,6,0,>10 tahun,Q4 (tertinggi)
+1867,48,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Jarang,19665,22,12,2,3,0,10,0,>10 tahun,Q4 (tertinggi)
+1868,29,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,2439,1,1,4,2,0,24,1,1 tahun,Q1 (terendah)
+1869,46,Ya,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7314,8,0,2,3,3,10,1,6-10 tahun,Q3
+1870,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Sering,4774,7,7,1,2,1,15,0,6-10 tahun,Q2
+1871,39,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Cerai,Jarang,3902,2,2,4,3,3,19,0,2 tahun,Q2
+1873,55,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2662,5,0,4,4,1,2,0,3-5 tahun,Q1 (terendah)
+1875,28,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2856,1,0,2,3,1,3,0,1 tahun,Q1 (terendah)
+1876,30,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,1081,1,0,4,2,0,9,1,1 tahun,Q1 (terendah)
+1878,22,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2472,1,0,2,3,0,7,1,1 tahun,Q1 (terendah)
+1880,36,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,5673,10,1,3,3,1,10,0,6-10 tahun,Q3
+1881,31,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Cerai,Jarang,4197,10,0,3,3,1,20,0,6-10 tahun,Q2
+1882,34,Tidak,Penjualan,Sales Executive,3,Ya,Menikah,Jarang,9713,5,1,4,3,3,4,0,3-5 tahun,Q4 (tertinggi)
+1883,29,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2062,3,1,1,3,0,7,0,3-5 tahun,Q1 (terendah)
+1885,37,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Jarang,4284,5,0,1,3,1,7,0,3-5 tahun,Q2
+1886,35,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,4788,3,0,2,3,0,16,0,3-5 tahun,Q2
+1888,45,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5906,9,3,4,2,2,25,0,6-10 tahun,Q3
+1890,36,Tidak,SDM,Human Resources,2,Tidak,Lajang,Sering,3886,10,0,4,2,0,2,0,6-10 tahun,Q2
+1892,40,Tidak,Riset & Pengembangan,Manager,4,Tidak,Cerai,Jarang,16823,19,11,1,3,1,1,0,>10 tahun,Q4 (tertinggi)
+1893,26,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,2933,1,1,3,2,1,1,0,1 tahun,Q2
+1898,27,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,6500,8,0,3,2,0,2,0,6-10 tahun,Q3
+1900,48,Tidak,Riset & Pengembangan,Manager,4,Tidak,Cerai,Sering,17174,22,4,4,3,1,22,0,>10 tahun,Q4 (tertinggi)
+1903,44,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5033,2,2,1,3,1,1,0,2 tahun,Q3
+1905,34,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Tidak pernah,2307,5,3,1,3,1,16,1,3-5 tahun,Q1 (terendah)
+1907,56,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2587,4,1,4,3,0,24,1,3-5 tahun,Q1 (terendah)
+1908,36,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5507,4,1,2,1,2,17,0,3-5 tahun,Q3
+1909,41,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4393,5,1,2,3,1,8,0,3-5 tahun,Q2
+1911,42,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,13348,13,5,1,4,1,6,0,>10 tahun,Q4 (tertinggi)
+1912,31,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,6583,5,1,4,3,1,10,0,3-5 tahun,Q3
+1915,34,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,8103,4,0,4,2,0,3,0,3-5 tahun,Q3
+1916,31,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,3978,2,2,3,2,1,4,0,2 tahun,Q2
+1918,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Sering,2544,7,7,4,3,1,6,0,6-10 tahun,Q1 (terendah)
+1922,45,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Sering,5399,4,0,3,3,0,1,0,3-5 tahun,Q3
+1924,33,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,5487,10,0,3,2,0,10,0,6-10 tahun,Q3
+1927,28,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Sering,6834,7,0,4,3,1,1,0,6-10 tahun,Q3
+1928,29,Ya,Penjualan,Sales Representative,1,Tidak,Lajang,Sering,1091,1,0,1,3,0,24,1,1 tahun,Q1 (terendah)
+1929,39,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Tidak pernah,5736,3,1,3,3,1,21,0,3-5 tahun,Q3
+1931,27,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2226,5,1,2,2,1,2,0,3-5 tahun,Q1 (terendah)
+1932,34,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Menikah,Sering,5747,15,6,4,3,0,22,0,>10 tahun,Q3
+1933,28,Ya,Penjualan,Sales Executive,2,Ya,Lajang,Jarang,9854,2,2,3,3,0,13,1,2 tahun,Q4 (tertinggi)
+1934,47,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Tidak pernah,5467,8,1,2,4,1,14,0,6-10 tahun,Q3
+1935,56,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5380,0,0,1,3,1,11,0,<1 tahun,Q3
+1936,39,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Jarang,5151,10,7,1,3,1,9,0,6-10 tahun,Q3
+1937,38,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Sering,2133,20,0,2,3,1,8,0,>10 tahun,Q1 (terendah)
+1938,58,Tidak,Penjualan,Manager,4,Ya,Menikah,Jarang,17875,1,0,4,2,1,21,0,1 tahun,Q4 (tertinggi)
+1939,32,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Sering,2432,4,0,3,3,0,5,1,3-5 tahun,Q1 (terendah)
+1940,38,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Cerai,Jarang,4771,5,0,4,4,2,9,0,3-5 tahun,Q2
+1941,49,Tidak,Riset & Pengembangan,Research Director,5,Tidak,Menikah,Sering,19161,5,4,4,3,0,2,0,3-5 tahun,Q4 (tertinggi)
+1943,42,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,5087,0,0,4,3,2,12,0,<1 tahun,Q3
+1944,27,Ya,SDM,Human Resources,1,Tidak,Menikah,Sering,2863,1,0,2,3,0,22,1,1 tahun,Q1 (terendah)
+1945,35,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5561,5,0,1,1,1,18,0,3-5 tahun,Q3
+1947,28,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Tidak pernah,2144,5,1,3,2,0,16,0,3-5 tahun,Q1 (terendah)
+1948,31,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Cerai,Tidak pernah,3065,4,2,1,4,1,3,0,3-5 tahun,Q2
+1949,36,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Tidak pernah,2810,5,0,2,3,0,9,0,3-5 tahun,Q1 (terendah)
+1950,34,Tidak,Penjualan,Sales Executive,3,Tidak,Lajang,Jarang,9888,14,2,4,2,0,1,0,>10 tahun,Q4 (tertinggi)
+1951,34,Tidak,Penjualan,Sales Executive,3,Tidak,Cerai,Jarang,8628,8,1,3,2,1,13,0,6-10 tahun,Q4 (tertinggi)
+1952,26,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2867,7,7,1,2,0,1,0,6-10 tahun,Q1 (terendah)
+1954,29,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Menikah,Jarang,5373,5,0,1,2,1,1,0,3-5 tahun,Q3
+1955,32,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Tidak pernah,6667,5,1,4,3,1,15,0,3-5 tahun,Q3
+1956,31,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Sering,5003,10,8,1,3,0,1,0,6-10 tahun,Q3
+1960,28,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Jarang,2367,4,0,4,2,1,17,1,3-5 tahun,Q1 (terendah)
+1961,38,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2858,1,0,1,2,0,1,0,1 tahun,Q1 (terendah)
+1962,35,Tidak,Penjualan,Sales Executive,2,Ya,Menikah,Jarang,5204,10,0,4,3,0,7,0,6-10 tahun,Q3
+1965,27,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4105,7,0,4,3,0,9,0,6-10 tahun,Q2
+1966,32,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Jarang,9679,1,0,4,3,0,5,0,1 tahun,Q4 (tertinggi)
+1967,31,Ya,Penjualan,Sales Executive,2,Ya,Menikah,Sering,5617,10,0,4,3,0,26,1,6-10 tahun,Q3
+1968,53,Ya,Penjualan,Sales Executive,3,Ya,Lajang,Jarang,10448,2,2,1,2,0,24,1,2 tahun,Q4 (tertinggi)
+1969,54,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Menikah,Jarang,2897,4,2,3,2,2,9,0,3-5 tahun,Q1 (terendah)
+1970,33,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Sering,5968,9,2,3,3,3,7,0,6-10 tahun,Q3
+1971,43,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,7510,10,0,3,3,1,11,0,6-10 tahun,Q3
+1972,38,Tidak,SDM,Human Resources,1,Ya,Menikah,Sering,2991,6,1,2,3,1,1,0,6-10 tahun,Q2
+1973,55,Tidak,SDM,Manager,5,Ya,Menikah,Jarang,19636,10,1,2,3,1,26,0,6-10 tahun,Q4 (tertinggi)
+1974,31,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,1129,1,0,4,3,3,2,0,1 tahun,Q1 (terendah)
+1975,39,Tidak,Penjualan,Sales Executive,4,Tidak,Lajang,Jarang,13341,20,11,1,3,0,15,0,>10 tahun,Q4 (tertinggi)
+1976,42,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Tidak pernah,4332,20,3,3,3,0,23,0,>10 tahun,Q2
+1979,31,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Tidak pernah,11031,11,4,3,4,1,10,0,>10 tahun,Q4 (tertinggi)
+1980,54,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Lajang,Jarang,4440,5,1,1,3,0,10,0,3-5 tahun,Q2
+1981,24,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Lajang,Jarang,4617,4,1,3,2,0,1,0,3-5 tahun,Q2
+1982,23,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2647,5,1,4,4,0,12,0,3-5 tahun,Q1 (terendah)
+1985,40,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Sering,6323,10,9,3,4,1,11,0,6-10 tahun,Q3
+1986,40,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5677,11,5,2,3,1,2,0,>10 tahun,Q3
+1987,25,Tidak,SDM,Human Resources,1,Tidak,Menikah,Jarang,2187,2,1,2,3,0,2,0,2 tahun,Q1 (terendah)
+1989,30,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,3748,12,1,2,2,0,1,0,>10 tahun,Q2
+1992,25,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Cerai,Jarang,3977,2,0,3,2,1,2,0,2 tahun,Q2
+1993,47,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Lajang,Jarang,8633,17,12,3,3,0,25,0,>10 tahun,Q4 (tertinggi)
+1994,33,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Cerai,Tidak pernah,2008,1,0,3,2,3,1,0,1 tahun,Q1 (terendah)
+1995,38,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,4440,15,5,2,3,2,1,0,>10 tahun,Q2
+1996,31,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,3067,2,1,3,3,1,2,0,2 tahun,Q2
+1997,38,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Menikah,Sering,5321,8,7,3,3,1,6,0,6-10 tahun,Q3
+1998,42,Tidak,Riset & Pengembangan,Research Scientist,2,Ya,Cerai,Jarang,5410,4,1,1,2,1,18,0,3-5 tahun,Q3
+1999,41,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2782,5,1,4,3,1,1,0,3-5 tahun,Q1 (terendah)
+2000,47,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Tidak pernah,11957,13,5,2,1,2,1,0,>10 tahun,Q4 (tertinggi)
+2003,35,Tidak,Riset & Pengembangan,Laboratory Technician,1,Ya,Menikah,Jarang,2660,2,2,3,3,1,11,0,2 tahun,Q1 (terendah)
+2007,22,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3375,3,1,3,4,0,1,0,3-5 tahun,Q2
+2008,35,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,5098,10,0,3,3,0,9,0,6-10 tahun,Q3
+2009,33,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Jarang,4878,9,8,4,3,1,15,0,6-10 tahun,Q2
+2010,32,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Lajang,Jarang,2837,6,4,2,3,0,29,0,6-10 tahun,Q1 (terendah)
+2012,40,Tidak,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2406,1,0,4,2,2,1,0,1 tahun,Q1 (terendah)
+2013,32,Tidak,Penjualan,Sales Representative,1,Tidak,Menikah,Jarang,2269,2,2,2,3,1,1,0,2 tahun,Q1 (terendah)
+2014,39,Tidak,Riset & Pengembangan,Research Scientist,2,Tidak,Lajang,Jarang,4108,7,1,4,3,0,24,0,6-10 tahun,Q2
+2015,38,Tidak,Riset & Pengembangan,Research Director,3,Tidak,Menikah,Jarang,13206,18,1,3,3,1,10,0,>10 tahun,Q4 (tertinggi)
+2016,32,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,10422,14,5,4,3,2,1,0,>10 tahun,Q4 (tertinggi)
+2017,37,Tidak,Riset & Pengembangan,Research Director,3,Ya,Menikah,Jarang,13744,16,6,4,3,1,10,0,>10 tahun,Q4 (tertinggi)
+2018,25,Tidak,Penjualan,Sales Executive,2,Ya,Cerai,Jarang,4907,5,0,3,2,1,8,0,3-5 tahun,Q2
+2019,52,Tidak,Penjualan,Sales Representative,1,Tidak,Cerai,Tidak pernah,3482,9,0,4,2,2,29,0,6-10 tahun,Q2
+2020,44,Tidak,Riset & Pengembangan,Research Scientist,1,Ya,Lajang,Jarang,2436,4,1,4,3,0,1,0,3-5 tahun,Q1 (terendah)
+2021,21,Tidak,Penjualan,Sales Representative,1,Ya,Lajang,Jarang,2380,2,1,1,3,0,5,0,2 tahun,Q1 (terendah)
+2022,39,Tidak,Riset & Pengembangan,Manager,5,Tidak,Lajang,Tidak pernah,19431,6,1,4,2,0,9,0,6-10 tahun,Q4 (tertinggi)
+2023,23,Ya,Penjualan,Sales Representative,1,Tidak,Menikah,Sering,1790,1,1,1,2,1,9,1,1 tahun,Q1 (terendah)
+2024,36,Tidak,Penjualan,Sales Executive,3,Tidak,Menikah,Jarang,7644,9,3,4,3,2,3,0,6-10 tahun,Q3
+2025,36,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Cerai,Sering,5131,4,0,2,3,3,4,0,3-5 tahun,Q3
+2026,56,Tidak,Riset & Pengembangan,Healthcare Representative,2,Tidak,Cerai,Tidak pernah,6306,13,1,3,2,1,1,0,>10 tahun,Q3
+2027,29,Ya,Riset & Pengembangan,Research Scientist,1,Ya,Menikah,Jarang,4787,2,2,4,4,3,1,1,2 tahun,Q2
+2031,42,Tidak,Riset & Pengembangan,Manager,5,Tidak,Menikah,Jarang,18880,22,4,3,2,0,2,0,>10 tahun,Q4 (tertinggi)
+2032,56,Ya,Riset & Pengembangan,Laboratory Technician,1,Tidak,Menikah,Jarang,2339,10,9,3,1,1,7,1,6-10 tahun,Q1 (terendah)
+2034,41,Tidak,Riset & Pengembangan,Manufacturing Director,4,Tidak,Menikah,Jarang,13570,20,0,2,3,1,28,0,>10 tahun,Q4 (tertinggi)
+2035,34,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6712,8,1,3,3,2,28,0,6-10 tahun,Q3
+2036,36,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Tidak pernah,5406,15,11,4,2,1,15,0,>10 tahun,Q3
+2037,41,Tidak,Penjualan,Sales Executive,2,Tidak,Cerai,Jarang,8938,5,0,2,3,1,3,0,3-5 tahun,Q4 (tertinggi)
+2038,32,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2439,4,1,1,3,0,2,0,3-5 tahun,Q1 (terendah)
+2040,35,Tidak,SDM,Human Resources,3,Ya,Lajang,Jarang,8837,9,1,4,3,0,26,0,6-10 tahun,Q4 (tertinggi)
+2041,38,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,5343,10,1,4,3,1,10,0,6-10 tahun,Q3
+2044,50,Ya,Penjualan,Sales Executive,2,Tidak,Cerai,Sering,6728,6,0,3,3,2,1,1,6-10 tahun,Q3
+2045,36,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Jarang,6652,6,0,4,2,1,11,0,6-10 tahun,Q3
+2046,45,Tidak,Penjualan,Sales Executive,2,Tidak,Lajang,Jarang,4850,5,0,3,3,0,20,0,3-5 tahun,Q2
+2048,40,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,2809,2,2,3,3,0,2,0,2 tahun,Q1 (terendah)
+2049,35,Tidak,Riset & Pengembangan,Healthcare Representative,2,Ya,Menikah,Sering,5689,10,0,3,4,2,18,0,6-10 tahun,Q3
+2051,40,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2001,5,0,3,3,3,2,0,3-5 tahun,Q1 (terendah)
+2052,35,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Menikah,Jarang,2977,4,1,4,3,1,1,0,3-5 tahun,Q2
+2053,29,Tidak,Riset & Pengembangan,Laboratory Technician,2,Ya,Menikah,Jarang,4025,4,0,2,3,1,13,0,3-5 tahun,Q2
+2054,29,Tidak,Riset & Pengembangan,Research Scientist,1,Tidak,Lajang,Jarang,3785,5,0,1,1,0,28,0,3-5 tahun,Q2
+2055,50,Ya,Penjualan,Sales Executive,3,Ya,Cerai,Jarang,10854,3,2,1,3,1,28,1,3-5 tahun,Q4 (tertinggi)
+2056,39,Tidak,Penjualan,Sales Executive,4,Tidak,Menikah,Jarang,12031,20,9,4,2,1,24,0,>10 tahun,Q4 (tertinggi)
+2057,31,Tidak,Riset & Pengembangan,Manufacturing Director,2,Tidak,Lajang,Tidak pernah,9936,9,1,1,3,0,5,0,6-10 tahun,Q4 (tertinggi)
+2060,26,Tidak,Penjualan,Sales Representative,1,Tidak,Lajang,Jarang,2966,4,0,3,3,0,5,0,3-5 tahun,Q2
+2061,36,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Sering,2571,5,0,4,3,1,23,0,3-5 tahun,Q1 (terendah)
+2062,39,Tidak,Riset & Pengembangan,Healthcare Representative,3,Tidak,Menikah,Jarang,9991,7,1,1,3,1,6,0,6-10 tahun,Q4 (tertinggi)
+2064,27,Tidak,Riset & Pengembangan,Manufacturing Director,2,Ya,Menikah,Jarang,6142,6,0,2,3,1,4,0,6-10 tahun,Q3
+2065,49,Tidak,Penjualan,Sales Executive,2,Tidak,Menikah,Sering,5390,9,0,2,2,0,2,0,6-10 tahun,Q3
+2068,34,Tidak,Riset & Pengembangan,Laboratory Technician,2,Tidak,Menikah,Jarang,4404,4,1,3,4,0,8,0,3-5 tahun,Q2

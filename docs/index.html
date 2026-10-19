@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard Turnover Karyawan</title>
+<meta name="description" content="Dashboard portofolio: siapa yang resign, kapan, dan berapa biayanya. Dataset contoh IBM HR Analytics (fiktif).">
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,0.10);
+    --s1: #2a78d6; --dim: #d3d2cb; --ref: #52514e; --focus: #2a78d6;
+    --heat: #cde2fb,#9ec5f4,#6da7ec,#3987e5,#256abf,#184f95,#0d366b;
+    --heat-ink-flip: 3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+      --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+      --s1: #3987e5; --dim: #45453f; --ref: #c3c2b7; --focus: #6da7ec;
+      --heat: #0d366b,#104281,#184f95,#1c5cab,#2a78d6,#5598e7,#9ec5f4;
+      --heat-ink-flip: 99;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+    --s1: #3987e5; --dim: #45453f; --ref: #c3c2b7; --focus: #6da7ec;
+    --heat: #0d366b,#104281,#184f95,#1c5cab,#2a78d6,#5598e7,#9ec5f4;
+    --heat-ink-flip: 99;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--page); color: var(--ink);
+         font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 28px 16px 56px; }
+  header h1 { font-size: 22px; line-height: 1.25; margin: 0 0 6px; }
+  .lede { margin: 0; color: var(--ink-2); max-width: 780px; }
+  .sim { display: inline-block; font-size: 11.5px; font-weight: 600; letter-spacing: .04em;
+         border: 1px solid var(--border); border-radius: 999px; padding: 2px 10px; margin-bottom: 10px;
+         color: var(--ink-2); background: var(--surface); }
+  .filters { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; margin: 20px 0 16px; }
+  .filters label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--ink-2); }
+  select { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--axis);
+           border-radius: 8px; padding: 7px 10px; min-width: 170px; }
+  select:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .headline { background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+              padding: 14px 16px; margin-bottom: 12px; font-size: 15px; }
+  .kpis { display: grid; grid-template-columns: 1.3fr repeat(4, 1fr); gap: 12px; margin-bottom: 12px; }
+  @media (max-width: 900px) { .kpis { grid-template-columns: repeat(2, 1fr); } .kpis .hero { grid-column: 1 / -1; } }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; min-width: 0; }
+  .tile .label { font-size: 12.5px; color: var(--ink-2); }
+  .tile .value { font-size: 26px; font-weight: 600; line-height: 1.2; margin-top: 4px; }
+  .tile.hero .value { font-size: 48px; }
+  .tile .sub { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+  @media (max-width: 860px) { .grid2 { grid-template-columns: 1fr; } }
+  .stack { display: grid; gap: 12px; margin-bottom: 12px; }
+  .multi { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 28px; }
+  @media (max-width: 700px) { .multi { grid-template-columns: 1fr; } }
+  h2 { font-size: 15px; margin: 0 0 2px; }
+  h3 { font-size: 12.5px; margin: 6px 0 4px; color: var(--ink-2); }
+  .desc { font-size: 12.5px; color: var(--ink-2); margin: 0 0 10px; }
+  .note { font-size: 12px; color: var(--muted); margin: 8px 0 0; }
+  .chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+  .chart svg text { font-family: inherit; }
+  details { margin-top: 8px; }
+  summary { cursor: pointer; font-size: 12.5px; color: var(--ink-2); }
+  .tbl-wrap { overflow-x: auto; margin-top: 8px; }
+  table.data { border-collapse: collapse; font-size: 12.5px; width: 100%; font-variant-numeric: tabular-nums; }
+  table.data th, table.data td { text-align: right; padding: 4px 8px; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+  table.data th:first-child, table.data td:first-child { text-align: left; }
+  table.data th { color: var(--ink-2); font-weight: 600; }
+  .tooltip { position: fixed; z-index: 10; pointer-events: none; background: var(--surface); color: var(--ink);
+             border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 12.5px;
+             box-shadow: 0 4px 16px rgba(0,0,0,.12); opacity: 0; transition: opacity .08s; max-width: 280px; }
+  .tooltip .tv { font-weight: 600; font-size: 14px; }
+  .tooltip .tl { color: var(--ink-2); }
+  .notes ul { margin: 6px 0 0; padding-left: 18px; }
+  .notes li { margin-bottom: 6px; }
+  footer { margin-top: 20px; font-size: 12.5px; color: var(--ink-2); }
+  footer a, .notes a { color: var(--s1); }
+  .hit { fill: transparent; }
+  .hit:focus { outline: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <span class="sim">DATASET CONTOH IBM (FIKTIF) · PROYEK PORTOFOLIO</span>
+    <h1>Analisis Turnover Karyawan</h1>
+    <p class="lede">Siapa yang paling sering resign, kapan mereka keluar, dan berapa biaya yang ditanggung perusahaan.
+      Data: 1.470 karyawan dari dataset contoh IBM HR Analytics, bukan data perusahaan nyata.</p>
+  </header>
+
+  <div class="filters" role="group" aria-label="Filter dashboard">
+    <label>Departemen <select id="f-dep"></select></label>
+    <label>Level jabatan <select id="f-level"></select></label>
+    <label>Lembur
+      <select id="f-lembur">
+        <option value="-1">Semua</option>
+        <option value="1">Lembur</option>
+        <option value="0">Tidak lembur</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="headline" id="headline" aria-live="polite"></div>
+  <section class="kpis" id="kpis" aria-label="Indikator utama"></section>
+
+  <section class="grid2">
+    <div class="card">
+      <h2>Turnover menurut masa kerja</h2>
+      <p class="desc">Persentase karyawan yang resign di setiap kelompok masa kerja. Garis mendatar = rata-rata.</p>
+      <div class="chart" id="c-masa"></div>
+      <details><summary>Lihat data dalam tabel</summary><div class="tbl-wrap" id="t-masa"></div></details>
+    </div>
+    <div class="card">
+      <h2>Lembur × level jabatan</h2>
+      <p class="desc">Persentase resign untuk setiap kombinasi. Makin gelap, makin tinggi. Level 1 = jabatan paling awal, level 5 = paling senior.</p>
+      <div class="chart" id="c-silang"></div>
+      <details><summary>Lihat data dalam tabel</summary><div class="tbl-wrap" id="t-silang"></div></details>
+    </div>
+  </section>
+
+  <section class="stack">
+    <div class="card">
+      <h2>Faktor risiko resign</h2>
+      <p class="desc">Berapa kali lebih sering kelompok pertama resign dibanding kelompok pembanding. Garis tipis = rentang kepercayaan 95%.
+        Jika garisnya tidak menyentuh angka 1, perbedaannya kecil kemungkinan terjadi karena kebetulan. Ini hubungan, bukan sebab-akibat.</p>
+      <div class="chart" id="c-risiko"></div>
+      <details><summary>Lihat data dalam tabel</summary><div class="tbl-wrap" id="t-risiko"></div></details>
+    </div>
+    <div class="card">
+      <h2>Turnover per jabatan</h2>
+      <p class="desc">Diurutkan dari yang tertinggi. Garis tegak = rata-rata.</p>
+      <div class="chart" id="c-jabatan"></div>
+      <details><summary>Lihat data dalam tabel</summary><div class="tbl-wrap" id="t-jabatan"></div></details>
+    </div>
+    <div class="card">
+      <h2>Faktor lain</h2>
+      <p class="desc">Persentase resign menurut gaji, status pernikahan, frekuensi dinas luar, dan kepuasan kerja.</p>
+      <div class="multi">
+        <div><h3>Kuartil gaji bulanan</h3><div class="chart" id="c-gaji"></div></div>
+        <div><h3>Status pernikahan</h3><div class="chart" id="c-nikah"></div></div>
+        <div><h3>Dinas luar</h3><div class="chart" id="c-dinas"></div></div>
+        <div><h3>Kepuasan kerja</h3><div class="chart" id="c-puas"></div></div>
+      </div>
+      <details><summary>Lihat data dalam tabel</summary><div class="tbl-wrap" id="t-lain"></div></details>
+    </div>
+  </section>
+  <p class="note" id="catatan-sampel">Batang pucat dengan tanda * = kelompok kurang dari 20 karyawan. Tafsirkan dengan hati-hati.</p>
+
+  <section class="card notes" style="margin-top:12px">
+    <h2>Rekomendasi (berdasarkan seluruh data)</h2>
+    <ul>
+      <li><strong>Tahun pertama:</strong> perkuat onboarding dan mentoring, dengan evaluasi di bulan ke-3, 6, dan 12. Sepertiga karyawan yang resign keluar dalam 2 tahun pertama.</li>
+      <li><strong>Lembur:</strong> pantau jam lembur per tim, terutama level jabatan 1. Lebih dari separuh karyawan level 1 yang lembur akhirnya resign.</li>
+      <li><strong>Gaji level awal:</strong> bandingkan dengan pasar untuk jabatan berturnover tertinggi. Turnover kuartil gaji terendah 29,3%, hampir 3× kuartil tertinggi.</li>
+      <li><strong>Jabatan rawan:</strong> lakukan stay interview dan exit interview terstruktur untuk Sales Representative dan Laboratory Technician.</li>
+    </ul>
+  </section>
+
+  <footer>
+    Dibuat oleh Ratu Adisya Famela sebagai proyek portofolio analisis data.
+    Data: <a href="https://github.com/IBM/employee-attrition-aif360">IBM HR Analytics Employee Attrition</a> (fiktif, lisensi Apache 2.0).
+    Patokan biaya penggantian: <a href="https://www.gallup.com/workplace/247391/fixable-problem-costs-businesses-trillion.aspx">Gallup, 2019</a>.
+    Kode dan metodologi: <a href="https://github.com/ratuadisyaa/analisis-turnover-karyawan">repositori GitHub</a>.
+  </footer>
+</div>
+<div class="tooltip" id="tooltip" role="status"><div class="tv"></div><div class="tl"></div></div>
+
+<script src="data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const D = window.DATA_TURNOVER;
+  const K = Object.fromEntries(D.kolom.map((k, i) => [k, i]));
+  const SAMPEL_KECIL = 20;
+  const nf0 = new Intl.NumberFormat("id-ID", { maximumFractionDigits: 0 });
+  const nf1 = new Intl.NumberFormat("id-ID", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  const persen = v => (v == null || !isFinite(v)) ? "–" : nf1.format(v) + "%";
+  const kali = v => (v == null || !isFinite(v)) ? "–" : nf1.format(v) + "×";
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const state = { dep: -1, level: -1, lembur: -1 };
+
+  // ------------------------------------------------------------ data --
+  const kuartil = g => g <= D.batas_kuartil_gaji[0] ? 0 : g <= D.batas_kuartil_gaji[1] ? 1 : g <= D.batas_kuartil_gaji[2] ? 2 : 3;
+  const kelompokMasa = m => m < 1 ? 0 : m < 2 ? 1 : m < 3 ? 2 : m <= 5 ? 3 : m <= 10 ? 4 : 5;
+  const MASA = ["<1 tahun", "1 tahun", "2 tahun", "3–5 tahun", "6–10 tahun", ">10 tahun"];
+  const MASA_PENDEK = ["<1", "1", "2", "3–5", "6–10", ">10"];
+  const KUARTIL = ["Q1 (terendah)", "Q2", "Q3", "Q4 (tertinggi)"];
+  const PUAS = ["1 (rendah)", "2", "3", "4 (tinggi)"];
+  function saring() {
+    return D.baris.filter(r => (state.dep < 0 || r[K.dep] === state.dep)
+      && (state.level < 0 || r[K.level] === state.level)
+      && (state.lembur < 0 || r[K.lembur] === state.lembur));
+  }
+  function ringkas(rows) { const n = rows.length, k = rows.reduce((s, r) => s + r[K.keluar], 0); return { n, k, rate: n ? 100 * k / n : NaN }; }
+  function per(rows, kunci, jumlah) {
+    const out = Array.from({ length: jumlah }, () => ({ n: 0, k: 0 }));
+    for (const r of rows) { const i = kunci(r); out[i].n++; out[i].k += r[K.keluar]; }
+    out.forEach(o => o.rate = o.n ? 100 * o.k / o.n : NaN);
+    return out;
+  }
+  function median(a) { if (!a.length) return NaN; const s = [...a].sort((x, y) => x - y), m = s.length >> 1; return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2; }
+  function risiko(rows, uji) {
+    let a = 0, n1 = 0, c = 0, n2 = 0;
+    for (const r of rows) { if (uji(r)) { n1++; a += r[K.keluar]; } else { n2++; c += r[K.keluar]; } }
+    if (!n1 || !n2 || !a || !c) return null;
+    const rr = (a / n1) / (c / n2), se = Math.sqrt(1 / a - 1 / n1 + 1 / c - 1 / n2);
+    return { rr, lo: Math.exp(Math.log(rr) - 1.96 * se), hi: Math.exp(Math.log(rr) + 1.96 * se),
+             ra: 100 * a / n1, rb: 100 * c / n2, n1, n2 };
+  }
+
+  // ---------------------------------------------------------- helpers --
+  const NS = "http://www.w3.org/2000/svg";
+  function el(tag, attrs, parent) { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; }
+  function teks(p, x, y, s, a = {}) { const t = el("text", { x, y, "font-size": 11, fill: "var(--muted)", ...a }, p); t.textContent = s; return t; }
+  const HALO = { stroke: "var(--surface)", "stroke-width": 3, "paint-order": "stroke", "stroke-linejoin": "round" };
+  function svgBaru(id, w, h, label) { const host = document.getElementById(id); host.replaceChildren(); return el("svg", { viewBox: `0 0 ${w} ${h}`, width: w, height: h, role: "img", "aria-label": label }, host); }
+  const lebar = id => Math.max(260, document.getElementById(id).clientWidth);
+  function kolom(x, yA, w, yD) { const r = Math.min(4, w / 2, Math.max(0, yD - yA)); return `M${x},${yD}V${yA + r}A${r},${r} 0 0 1 ${x + r},${yA}H${x + w - r}A${r},${r} 0 0 1 ${x + w},${yA + r}V${yD}Z`; }
+  function batang(x0, x1, y, h) { const r = Math.min(4, h / 2, Math.max(0, x1 - x0)); return `M${x0},${y}H${x1 - r}A${r},${r} 0 0 1 ${x1},${y + r}V${y + h - r}A${r},${r} 0 0 1 ${x1 - r},${y + h}H${x0}Z`; }
+  const tip = document.getElementById("tooltip");
+  function tampil(ev, v, l) {
+    tip.querySelector(".tv").textContent = v; tip.querySelector(".tl").textContent = l; tip.style.opacity = 1;
+    let x, y; if (ev.type !== "focus") { x = ev.clientX; y = ev.clientY; } else { const b = ev.target.getBoundingClientRect(); x = b.left + b.width / 2; y = b.top; }
+    tip.style.left = Math.min(innerWidth - tip.offsetWidth - 8, Math.max(8, x + 12)) + "px";
+    tip.style.top = Math.max(8, y - tip.offsetHeight - 12) + "px";
+  }
+  function hover(node, isi, fokus = true) {
+    if (fokus) node.setAttribute("tabindex", "0");
+    const m = ev => { const [v, l] = isi(); tampil(ev, v, l); };
+    node.addEventListener("pointermove", m); node.addEventListener("focus", m);
+    node.addEventListener("pointerleave", () => tip.style.opacity = 0); node.addEventListener("blur", () => tip.style.opacity = 0);
+  }
+  function tabel(id, kepala, baris) {
+    const t = document.createElement("table"); t.className = "data";
+    const tr = t.createTHead().insertRow(); kepala.forEach(h => { const th = document.createElement("th"); th.textContent = h; tr.appendChild(th); });
+    const tb = t.createTBody(); baris.forEach(b => { const r = tb.insertRow(); b.forEach(c => r.insertCell().textContent = c); });
+    document.getElementById(id).replaceChildren(t);
+  }
+  const labelRate = g => g.n < SAMPEL_KECIL ? persen(g.rate) + "*" : persen(g.rate);
+  const keterangan = (nama, g) => `${nama} · ${nf0.format(g.k)} dari ${nf0.format(g.n)} karyawan resign${g.n < SAMPEL_KECIL ? " · sampel kecil" : ""}`;
+
+  // ------------------------------------------------- grafik: masa kerja --
+  function grafikMasa(rows, rata) {
+    const g = per(rows, r => kelompokMasa(r[K.masa]), 6);
+    const W = lebar("c-masa"), H = 240, m = { l: 40, r: 10, t: 22, b: 30 };
+    const svg = svgBaru("c-masa", W, H, "Grafik kolom turnover menurut masa kerja");
+    const maks = Math.max(10, Math.ceil(Math.max(...g.map(o => o.rate || 0), rata) / 10) * 10);
+    const y = v => H - m.b - (v / maks) * (H - m.b - m.t), band = (W - m.l - m.r) / 6, w = Math.min(24, band * 0.55);
+    if (band < 64) teks(svg, W - m.r, H - 2, "tahun", { "text-anchor": "end" });
+    for (let v = 0; v <= maks; v += 10) {
+      el("line", { x1: m.l, x2: W - m.r, y1: y(v), y2: y(v), stroke: v ? "var(--grid)" : "var(--axis)" }, svg);
+      teks(svg, m.l - 6, y(v) + 4, v + "%", { "text-anchor": "end" });
+    }
+    g.forEach((o, i) => {
+      const x = m.l + band * i + band / 2;
+      if (o.n) el("path", { d: kolom(x - w / 2, y(o.rate), w, y(0)), fill: "var(--s1)", opacity: o.n < SAMPEL_KECIL ? 0.45 : 1 }, svg);
+      if (o.n) teks(svg, x, y(o.rate) - 6, labelRate(o), { "text-anchor": "middle", fill: "var(--ink)", "font-weight": 600, "font-size": 11.5, ...HALO });
+      teks(svg, x, H - m.b + 16, band < 64 ? MASA_PENDEK[i] : MASA[i], { "text-anchor": "middle", fill: "var(--ink-2)" });
+      const hit = el("rect", { x: m.l + band * i, y: m.t, width: band, height: H - m.t - m.b, class: "hit", "aria-label": `${MASA[i]}: ${persen(o.rate)}` }, svg);
+      hover(hit, () => [`${persen(o.rate)} resign`, keterangan(`Masa kerja ${MASA[i]}`, o)]);
+    });
+    if (isFinite(rata)) {
+      el("line", { x1: m.l, x2: W - m.r, y1: y(rata), y2: y(rata), stroke: "var(--ref)" }, svg);
+      teks(svg, W - m.r, y(rata) - 5, `Rata-rata ${persen(rata)}`, { "text-anchor": "end", fill: "var(--ink-2)", ...HALO });
+    }
+    tabel("t-masa", ["Masa kerja", "Karyawan", "Resign", "% resign"], g.map((o, i) => [MASA[i], nf0.format(o.n), nf0.format(o.k), persen(o.rate)]));
+  }
+
+  // ------------------------------------------- grafik: lembur x level --
+  function grafikSilang(rows) {
+    const sel = [1, 0].map(l => [1, 2, 3, 4, 5].map(lv => {
+      const sub = rows.filter(r => r[K.lembur] === l && r[K.level] === lv); return ringkas(sub);
+    }));
+    const warna = css("--heat").split(",").map(s => s.trim()), flip = +css("--heat-ink-flip");
+    const W = lebar("c-silang"), lab = 92, top = 24, celW = (W - lab) / 5, celH = 64, H = top + 2 * celH + 4;
+    const svg = svgBaru("c-silang", W, H, "Peta panas turnover menurut lembur dan level jabatan");
+    const maks = Math.max(1, ...sel.flat().map(o => o.n ? o.rate : 0));
+    [1, 2, 3, 4, 5].forEach((lv, j) => teks(svg, lab + j * celW + celW / 2, 14, `Level ${lv}`, { "text-anchor": "middle", fill: "var(--ink-2)" }));
+    ["Lembur", "Tidak lembur"].forEach((nama, i) => {
+      teks(svg, lab - 10, top + i * celH + celH / 2 + 4, nama, { "text-anchor": "end", fill: "var(--ink)", "font-size": 12 });
+      sel[i].forEach((o, j) => {
+        const x = lab + j * celW, y = top + i * celH;
+        if (!o.n) { el("rect", { x: x + 1, y: y + 1, width: celW - 2, height: celH - 2, rx: 3, fill: "var(--grid)" }, svg); teks(svg, x + celW / 2, y + celH / 2 + 4, "–", { "text-anchor": "middle" }); return; }
+        const bin = Math.min(warna.length - 1, Math.floor((o.rate / maks) * warna.length));
+        el("rect", { x: x + 1, y: y + 1, width: celW - 2, height: celH - 2, rx: 3, fill: warna[bin], opacity: o.n < SAMPEL_KECIL ? 0.5 : 1 }, svg);
+        const tinta = bin >= flip ? "#ffffff" : (flip > 50 && bin >= 5 ? "#0b0b0b" : "var(--ink)");
+        teks(svg, x + celW / 2, y + celH / 2, labelRate(o), { "text-anchor": "middle", fill: tinta, "font-size": 13, "font-weight": 600 });
+        teks(svg, x + celW / 2, y + celH / 2 + 16, `n=${nf0.format(o.n)}`, { "text-anchor": "middle", fill: tinta, "font-size": 10.5, opacity: 0.85 });
+        const hit = el("rect", { x, y, width: celW, height: celH, class: "hit", "aria-label": `${nama}, level ${j + 1}: ${persen(o.rate)}` }, svg);
+        hover(hit, () => [`${persen(o.rate)} resign`, keterangan(`${nama}, level ${j + 1}`, o)]);
+      });
+    });
+    tabel("t-silang", ["", "Level 1", "Level 2", "Level 3", "Level 4", "Level 5"],
+      ["Lembur", "Tidak lembur"].map((n, i) => [n, ...sel[i].map(o => o.n ? `${persen(o.rate)} (n=${o.n})` : "–")]));
+  }
+
+  // ---------------------------------------- grafik: faktor risiko (forest) --
+  function grafikRisiko(rows) {
+    const daftar = [
+      ["Lembur", "vs tidak lembur", r => r[K.lembur] === 1],
+      ["Masa kerja < 2 tahun", "vs ≥ 2 tahun", r => r[K.masa] < 2],
+      ["Level jabatan 1", "vs level 2–5", r => r[K.level] === 1],
+      ["Gaji kuartil terendah", "vs kuartil lain", r => kuartil(r[K.gaji]) === 0],
+      ["Tanpa opsi saham", "vs punya opsi saham", r => r[K.saham] === 0],
+      ["Lajang", "vs menikah/cerai", r => r[K.status] === 0],
+      ["Sering dinas luar", "vs jarang/tidak pernah", r => r[K.dinas] === 0],
+    ].map(([a, b, f]) => ({ a, b, h: risiko(rows, f) })).filter(o => o.h).sort((x, y) => y.h.rr - x.h.rr);
+    const W = lebar("c-risiko"), sempit = W < 640, lab = sempit ? 0 : 210, kanan = sempit ? 104 : 130, baris = sempit ? 50 : 38, top = 22;
+    const H = top + Math.max(1, daftar.length) * baris + 26;
+    const svg = svgBaru("c-risiko", W, H, "Grafik risiko relatif resign per faktor");
+    if (!daftar.length) { teks(svg, 0, 40, "Tidak cukup data untuk filter ini.", { "font-size": 12 }); tabel("t-risiko", ["Faktor"], []); return; }
+    const lo = Math.min(0.5, ...daftar.map(o => o.h.lo)), hi = Math.max(4, ...daftar.map(o => o.h.hi));
+    const x = v => lab + (Math.log(v) - Math.log(lo)) / (Math.log(hi) - Math.log(lo)) * (W - lab - kanan);
+    const ticks = (sempit ? [0.5, 1, 2, 4, 8] : [0.5, 1, 2, 3, 4, 6, 8]).filter(v => v >= lo && v <= hi);
+    ticks.forEach(v => {
+      el("line", { x1: x(v), x2: x(v), y1: top - 4, y2: H - 22, stroke: v === 1 ? "var(--ref)" : "var(--grid)" }, svg);
+      teks(svg, x(v), H - 6, nf1.format(v).replace(",0", "") + "×", { "text-anchor": "middle" });
+    });
+    teks(svg, x(1) + 4, top - 8, "1× = tidak ada beda", { fill: "var(--ink-2)", "font-size": 10.5 });
+    daftar.forEach((o, i) => {
+      const yy = sempit ? top + i * baris + 34 : top + i * baris + baris / 2;
+      if (sempit) {
+        const t = teks(svg, 0, yy - 14, o.a, { fill: "var(--ink)", "font-size": 12, ...HALO });
+        const b = el("tspan", { fill: "var(--muted)", "font-size": 10.5 }, t); b.textContent = "  " + o.b;
+      } else {
+        teks(svg, lab - 12, yy - 1, o.a, { "text-anchor": "end", fill: "var(--ink)", "font-size": 12 });
+        teks(svg, lab - 12, yy + 12, o.b, { "text-anchor": "end", "font-size": 10.5 });
+      }
+      el("line", { x1: x(o.h.lo), x2: x(o.h.hi), y1: yy, y2: yy, stroke: "var(--s1)", "stroke-width": 2, "stroke-linecap": "round" }, svg);
+      el("circle", { cx: x(o.h.rr), cy: yy, r: 5, fill: "var(--s1)", stroke: "var(--surface)", "stroke-width": 2 }, svg);
+      teks(svg, W - kanan + 10, yy + 4, `${kali(o.h.rr)} (${nf1.format(o.h.lo)}–${nf1.format(o.h.hi)})`, { fill: "var(--ink)", "font-size": 12, "font-weight": 600 });
+      const hit = el("rect", { x: 0, y: top + i * baris, width: W, height: baris, class: "hit", "aria-label": `${o.a}: ${kali(o.h.rr)}` }, svg);
+      hover(hit, () => [`${kali(o.h.rr)} lebih sering resign`, `${o.a}: ${persen(o.h.ra)} (n=${nf0.format(o.h.n1)}) ${o.b}: ${persen(o.h.rb)} (n=${nf0.format(o.h.n2)})`]);
+    });
+    tabel("t-risiko", ["Faktor", "Pembanding", "% resign", "% resign pembanding", "Risiko relatif", "Rentang 95%"],
+      daftar.map(o => [o.a, o.b.replace("vs ", ""), persen(o.h.ra), persen(o.h.rb), kali(o.h.rr), `${nf1.format(o.h.lo)}–${nf1.format(o.h.hi)}`]));
+  }
+
+  // ------------------------------------------------ batang mendatar umum --
+  function grafikBatang(id, nama, nilai, rata, opsi = {}) {
+    const W = lebar(id), lab = opsi.lab || 110, kanan = 54, baris = opsi.baris || 30, h = 16, top = opsi.top ?? 18;
+    const H = top + nilai.length * baris + 4;
+    const svg = svgBaru(id, W, H, opsi.label || "Grafik batang");
+    const maks = opsi.maks || Math.max(10, Math.ceil(Math.max(...nilai.map(o => o.g.rate || 0), rata || 0) / 10) * 10);
+    const x = v => lab + (v / maks) * (W - lab - kanan);
+    el("line", { x1: x(0), x2: x(0), y1: top - 2, y2: H, stroke: "var(--axis)" }, svg);
+    if (isFinite(rata)) {
+      el("line", { x1: x(rata), x2: x(rata), y1: top - 6, y2: H, stroke: "var(--ref)" }, svg);
+      teks(svg, x(rata), top - 9, `Rata-rata ${persen(rata)}`, { "text-anchor": "middle", fill: "var(--ink-2)", "font-size": 10.5, ...HALO });
+    }
+    nilai.forEach((o, i) => {
+      const yy = top + i * baris + (baris - h) / 2;
+      teks(svg, lab - 10, yy + h / 2 + 4, o.nama, { "text-anchor": "end", fill: "var(--ink)", "font-size": 12 });
+      if (o.g.n) {
+        el("path", { d: batang(x(0), x(o.g.rate), yy, h), fill: "var(--s1)", opacity: o.g.n < SAMPEL_KECIL ? 0.45 : 1 }, svg);
+        teks(svg, x(o.g.rate) + 6, yy + h / 2 + 4, labelRate(o.g), { fill: "var(--ink)", "font-size": 12, "font-weight": 600, ...HALO });
+      } else teks(svg, x(0) + 6, yy + h / 2 + 4, "tidak ada data", { "font-size": 11 });
+      const hit = el("rect", { x: 0, y: top + i * baris, width: W, height: baris, class: "hit", "aria-label": `${o.nama}: ${persen(o.g.rate)}` }, svg);
+      hover(hit, () => [`${persen(o.g.rate)} resign`, keterangan(o.nama, o.g)]);
+    });
+  }
+
+  function grafikJabatan(rows, rata) {
+    const g = per(rows, r => r[K.jab], D.kamus.jabatan.length);
+    const nilai = D.kamus.jabatan.map((nama, i) => ({ nama, g: g[i] })).filter(o => o.g.n).sort((a, b) => b.g.rate - a.g.rate);
+    const sempit = lebar("c-jabatan") < 560;
+    grafikBatang("c-jabatan", "jabatan", nilai, rata, { lab: sempit ? 150 : 190, label: "Grafik batang turnover per jabatan" });
+    tabel("t-jabatan", ["Jabatan", "Karyawan", "Resign", "% resign"], nilai.map(o => [o.nama, nf0.format(o.g.n), nf0.format(o.g.k), persen(o.g.rate)]));
+  }
+
+  function grafikLain(rows, rata) {
+    const set = [
+      ["c-gaji", "Kuartil gaji", KUARTIL, r => kuartil(r[K.gaji])],
+      ["c-nikah", "Status pernikahan", D.kamus.status_pernikahan, r => r[K.status]],
+      ["c-dinas", "Dinas luar", D.kamus.dinas_luar, r => r[K.dinas]],
+      ["c-puas", "Kepuasan kerja", PUAS, r => r[K.puas] - 1],
+    ];
+    const semua = [];
+    for (const [id, judul, label, kunci] of set) {
+      const g = per(rows, kunci, label.length);
+      const nilai = label.map((nama, i) => ({ nama, g: g[i] }));
+      grafikBatang(id, judul, nilai, rata, { lab: 104, label: `Grafik batang turnover menurut ${judul.toLowerCase()}` });
+      nilai.forEach(o => semua.push([judul, o.nama, nf0.format(o.g.n), nf0.format(o.g.k), persen(o.g.rate)]));
+    }
+    tabel("t-lain", ["Faktor", "Kelompok", "Karyawan", "Resign", "% resign"], semua);
+  }
+
+  // ------------------------------------------------------ KPI & headline --
+  function kpi(rows, s) {
+    const keluar = rows.filter(r => r[K.keluar]), tetap = rows.filter(r => !r[K.keluar]);
+    const awal = keluar.filter(r => r[K.masa] < 2).length;
+    const gajiTahunan = keluar.reduce((t, r) => t + r[K.gaji], 0) * 12;
+    const juta = v => "USD " + nf1.format(v / 1e6);
+    const lb = per(rows, r => r[K.lembur], 2);
+    const kartu = [
+      { l: "Tingkat turnover", v: persen(s.rate), s: `${nf0.format(s.k)} dari ${nf0.format(s.n)} karyawan resign`, hero: true },
+      { l: "Resign di 2 tahun pertama", v: persen(keluar.length ? 100 * awal / keluar.length : NaN), s: "dari semua karyawan yang resign" },
+      { l: "Median gaji bulanan", v: `${nf0.format(median(keluar.map(r => r[K.gaji])) || 0)} vs ${nf0.format(median(tetap.map(r => r[K.gaji])) || 0)}`, s: "USD, resign vs bertahan" },
+      { l: "Estimasi biaya penggantian", v: `${juta(0.5 * gajiTahunan)}–${nf1.format(2 * gajiTahunan / 1e6)} jt`, s: "0,5–2× gaji tahunan (Gallup, 2019)" },
+      { l: "Turnover karyawan lembur", v: persen(lb[1].rate),
+        s: lb[0].n && lb[1].n ? `vs ${persen(lb[0].rate)} yang tidak lembur` : "pembanding tidak ada pada filter ini" },
+    ];
+    document.getElementById("kpis").replaceChildren(...kartu.map(k => {
+      const d = document.createElement("div"); d.className = "card tile" + (k.hero ? " hero" : "");
+      for (const [c, t] of [["label", k.l], ["value", k.v], ["sub", k.s]]) { const e = document.createElement("div"); e.className = c; e.textContent = t; d.appendChild(e); }
+      return d;
+    }));
+  }
+  function headline(rows, s) {
+    const g = per(rows, r => kelompokMasa(r[K.masa]), 6);
+    const awal = g.slice(0, 2).reduce((a, o) => ({ n: a.n + o.n, k: a.k + o.k }), { n: 0, k: 0 });
+    const h = document.getElementById("headline"); h.replaceChildren();
+    const b = document.createElement("strong"); b.textContent = persen(s.rate);
+    h.append(b, ` karyawan resign. `);
+    if (awal.n >= SAMPEL_KECIL) h.append(`Di dua tahun pertama, angkanya ${persen(100 * awal.k / awal.n)}, atau ${kali((awal.k / awal.n) / (s.k / s.n))} rata-rata.`);
+  }
+
+  // ---------------------------------------------------------- render --
+  function render() {
+    const rows = saring(), s = ringkas(rows);
+    headline(rows, s); kpi(rows, s);
+    grafikMasa(rows, s.rate); grafikSilang(rows); grafikRisiko(rows); grafikJabatan(rows, s.rate); grafikLain(rows, s.rate);
+  }
+  const isi = (id, label, daftar) => document.getElementById(id).replaceChildren(new Option(label, -1), ...daftar.map(([t, v]) => new Option(t, v)));
+  isi("f-dep", "Semua departemen", D.kamus.departemen.map((n, i) => [n, i]));
+  isi("f-level", "Semua level", [1, 2, 3, 4, 5].map(v => [`Level ${v}`, v]));
+  document.getElementById("f-dep").addEventListener("change", e => { state.dep = +e.target.value; render(); });
+  document.getElementById("f-level").addEventListener("change", e => { state.level = +e.target.value; render(); });
+  document.getElementById("f-lembur").addEventListener("change", e => { state.lembur = +e.target.value; render(); });
+  let t; addEventListener("resize", () => { clearTimeout(t); t = setTimeout(render, 120); });
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", render);
+  render();
+})();
+</script>
+</body>
+</html>
